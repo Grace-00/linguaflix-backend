@@ -1,0 +1,3217 @@
+1
+00:00:10,684 --> 00:00:12,428
+- <i>Spegni il computer.</i>
+- Esce con lei.
+
+2
+00:00:12,438 --> 00:00:14,630
+- <i>Non hai bisogno di lui. Dillo.</i>
+- Non ho bisogno di lui.
+
+3
+00:00:14,640 --> 00:00:16,506
+- <i>Stai meglio senza.</i>
+- Sto meglio senza.
+
+4
+00:00:16,516 --> 00:00:18,527
+- <i>Sei caduta, miseramente e...</i>
+- Troppo velocemente.
+
+5
+00:00:18,537 --> 00:00:19,984
+E ho bisogno di essere...
+
+6
+00:00:19,994 --> 00:00:21,085
+Me stessa.
+
+7
+00:00:21,559 --> 00:00:24,422
+- Da sola.
+- <i>E lo fai allontanandoti dal computer.
+
+8
+00:00:26,275 --> 00:00:28,055
+<i>Allora? Ti sei allontanata?
+
+9
+00:00:29,206 --> 00:00:30,758
+- Ti odio.
+- <i>Brava, ragazza. Ora riaggancia,
+
+10
+00:00:30,768 --> 00:00:32,042
+<i>cosi' torno a dormire.
+
+11
+00:00:45,854 --> 00:00:47,977
+<i>Avete mai provato a scendere
+da un palo dei pompieri?
+
+12
+00:00:48,416 --> 00:00:49,885
+<i>Non e' semplice.
+
+13
+00:00:49,895 --> 00:00:51,956
+<i>Non c'e' un modo perfetto per farlo.
+
+14
+00:00:52,347 --> 00:00:54,553
+<i>Ma c'e' un modo sbagliato, decisamente.
+
+15
+00:00:55,532 --> 00:00:58,526
+<i>Se stringi troppo forte, non riesci
+a scivolare e resti appeso li',
+
+16
+00:00:58,536 --> 00:00:59,782
+<i>a penzoloni,
+
+17
+00:00:59,792 --> 00:01:01,040
+<i>bloccato.
+
+18
+00:01:01,050 --> 00:01:02,725
+<i>E nessuno vuole restare bloccato,
+
+19
+00:01:03,177 --> 00:01:06,985
+<i>per questo, tanto tempo fa, ho deciso
+che avrei usato sempre le scale.
+
+20
+00:01:13,098 --> 00:01:15,249
+So che lo sapete,
+ma ve lo ripeto lo stesso.
+
+21
+00:01:15,259 --> 00:01:17,496
+- Contenete le fiamme e uscite!
+- Fumo a regime laminare,
+
+22
+00:01:17,506 --> 00:01:20,640
+bassa probabilita' di esplosione.
+Deduco sia sul retro della casa.
+
+23
+00:01:20,650 --> 00:01:22,927
+Ehi, Gibson, hai fretta?
+Non vi ho dato ancora il piano.
+
+24
+00:01:22,937 --> 00:01:24,393
+Sono pronto a entrare, signore.
+
+25
+00:01:24,777 --> 00:01:26,530
+- Miller, vai con Gibson.
+- Ricevuto.
+
+26
+00:01:26,540 --> 00:01:28,908
+Andy, tu e Bishop vi occupate
+di ricerca e soccorso.
+
+27
+00:01:29,675 --> 00:01:31,854
+E qualcuno salga su
+quel tetto a ventilare!
+
+28
+00:01:33,210 --> 00:01:35,693
+L'entrata e' sicura.
+Parete sinistra... a posto.
+
+29
+00:01:35,703 --> 00:01:37,017
+Parete destra a posto.
+
+30
+00:01:45,927 --> 00:01:47,069
+Soggiorno libero.
+
+31
+00:01:47,079 --> 00:01:48,644
+Cucina e sala da pranzo liberi.
+
+32
+00:01:51,836 --> 00:01:52,785
+C'e' una persona!
+
+33
+00:01:52,795 --> 00:01:55,453
+Vittima cosciente. Abbiamo bisogno
+di un'ambulanza all'uscita.
+
+34
+00:01:55,463 --> 00:01:58,275
+- Grazie a Dio. - Signora, riesce
+a camminare? Dobbiamo uscire.
+
+35
+00:01:58,285 --> 00:01:59,783
+- Aspettate.
+- L'ha detto veramente?
+
+36
+00:01:59,793 --> 00:02:01,736
+Ok, no. No, no, no, no.
+
+37
+00:02:07,188 --> 00:02:09,791
+- Riempi il tubo.
+- Ricevuto!
+
+38
+00:02:11,798 --> 00:02:14,113
+Il bagnato sul rosso!
+
+39
+00:02:26,025 --> 00:02:28,237
+Controllate i parametri vitali.
+Attenzione alle vie aeree.
+
+40
+00:02:30,740 --> 00:02:32,987
+- Pressione 80 su 60.
+- Sa dirmi il suo nome?
+
+41
+00:02:32,997 --> 00:02:35,425
+- Tiffany.
+- Tiffany, e' importantissimo...
+
+42
+00:02:35,809 --> 00:02:37,685
+C'era qualcun altro in casa con lei?
+
+43
+00:02:39,439 --> 00:02:40,699
+Charlie.
+
+44
+00:02:43,270 --> 00:02:44,462
+Ferma il tubo.
+
+45
+00:02:46,188 --> 00:02:48,777
+- Il fuoco e' domato.
+-<i> C'e' un'altra possibile vittima, dentro.
+
+46
+00:02:48,787 --> 00:02:50,709
+Si chiama Charlie. Ripeto,
+
+47
+00:02:50,719 --> 00:02:52,934
+- <i>Charlie.</i>
+- Se e' ancora li', ormai e' andato.
+
+48
+00:02:52,944 --> 00:02:55,113
+- Stai zitto.
+- Che c'e'? E' tutta cenere.
+
+49
+00:02:55,123 --> 00:02:56,811
+Dean... basta.
+
+50
+00:02:56,821 --> 00:02:58,756
+Credi che si possa sopravvivere
+a questo tipo di incendio?
+
+51
+00:02:58,766 --> 00:02:59,839
+Stai zitto!
+
+52
+00:03:00,288 --> 00:03:01,370
+Lo sentite?
+
+53
+00:03:03,110 --> 00:03:05,219
+- Oh, mio Dio, e' un bambino.
+- Charlie?
+
+54
+00:03:06,055 --> 00:03:07,301
+- Charlie?
+- Charlie!
+
+55
+00:03:07,311 --> 00:03:08,327
+- Charlie?
+- Charlie!
+
+56
+00:03:08,337 --> 00:03:10,094
+- Charlie?
+- Charlie!
+
+57
+00:03:10,104 --> 00:03:11,610
+Ragazzi, aspettate, fermi.
+
+58
+00:03:14,306 --> 00:03:15,381
+Li'.
+
+59
+00:03:27,088 --> 00:03:28,431
+Il cucciolo e' mio.
+
+60
+00:03:29,321 --> 00:03:31,235
+Non puoi impadronirti del cucciolo.
+
+61
+00:03:31,865 --> 00:03:32,961
+E invece si'.
+
+62
+00:03:32,971 --> 00:03:34,098
+Quel cucciolo
+
+63
+00:03:34,108 --> 00:03:35,208
+e' mio.
+
+64
+00:03:51,312 --> 00:03:52,353
+Charlie!
+
+65
+00:03:52,819 --> 00:03:55,901
+- Oh, mio Dio. Grazie! Grazie!
+- Ci mancherebbe.
+
+66
+00:03:57,250 --> 00:03:59,449
+- Al vostro servizio.
+- Secondo te si esercita?
+
+67
+00:03:59,459 --> 00:04:01,723
+Va nei parchi per i cani
+nei suoi giorni liberi?
+
+68
+00:04:01,733 --> 00:04:04,663
+Culla i cuccioli sotto un braccio, e
+con l'altro rimuove la finta fuliggine.
+
+69
+00:04:04,673 --> 00:04:06,540
+- Per forza.
+- Dai, guardalo...
+
+70
+00:04:07,828 --> 00:04:11,088
+Hai notato che noi le abbiamo
+salvato la vita, ma lei ringrazia lui?
+
+71
+00:04:11,098 --> 00:04:12,861
+Queste cazzate spariranno
+quando saremo noi a capo.
+
+72
+00:04:12,871 --> 00:04:15,025
+La prossima volta...
+il cucciolo lo salviamo noi.
+
+73
+00:04:15,422 --> 00:04:17,368
+Station 19 - Stagione 1
+Episodio 1 - "Stuck"
+
+74
+00:04:17,378 --> 00:04:19,412
+Traduzione: Elposa,
+.Lila., Balexis, ElTravv
+
+75
+00:04:19,422 --> 00:04:21,395
+Traduzione: Fiammi., Annalu7,
+FilVekkia, AKmanu93c
+
+76
+00:04:21,405 --> 00:04:22,694
+Revisione: Fawed
+
+77
+00:04:22,704 --> 00:04:25,557
+Subspedia
+I nostri sottotitoli per i tuoi telefilm
+
+78
+00:04:30,387 --> 00:04:31,756
+- Novellino?
+- Yo.
+
+79
+00:04:33,633 --> 00:04:35,537
+Devi decontaminare tutte le manichette.
+
+80
+00:04:35,547 --> 00:04:36,756
+Si', dunque...
+
+81
+00:04:37,398 --> 00:04:41,179
+Sai che non sono proprio nuovo? Lavoro
+qui da un paio di settimane, ormai.
+
+82
+00:04:41,189 --> 00:04:43,322
+Ho scelto di lasciare
+la carriera da chirurgo, cioe'...
+
+83
+00:04:43,332 --> 00:04:45,692
+Tenevo veri cuori
+pulsanti nelle mani e...
+
+84
+00:04:46,788 --> 00:04:49,281
+Quello che voglio dire e' che
+non sono un ragazzino imbranato
+
+85
+00:04:49,692 --> 00:04:52,646
+che non capisce il lavoro duro e
+la disciplina. Posso fare altro che...
+
+86
+00:04:52,656 --> 00:04:53,933
+Pulire le manichette.
+
+87
+00:04:53,943 --> 00:04:56,399
+Si'. Certamente, Novellino. Seguimi.
+
+88
+00:04:57,762 --> 00:04:58,933
+Ho anche un nome.
+
+89
+00:05:00,584 --> 00:05:01,981
+Fai anche queste qui.
+
+90
+00:05:01,991 --> 00:05:05,049
+Puliscile e appendile. Una ha
+un buco, dovrai metterci una toppa.
+
+91
+00:05:06,196 --> 00:05:08,105
+Qual e' che ha un buco?
+
+92
+00:05:09,247 --> 00:05:10,464
+Non sei nuovo...
+
+93
+00:05:11,536 --> 00:05:12,737
+Scoprilo!
+
+94
+00:05:15,916 --> 00:05:18,800
+L'abbiamo domato in fretta 
+oggi, signore. Nessun morto.
+
+95
+00:05:18,810 --> 00:05:21,012
+Pensa che oggi potrebbe
+essere un Pole Day?
+
+96
+00:05:21,022 --> 00:05:23,391
+- Hai salvato un cucciolo.
+- E una Tiffany.
+
+97
+00:05:23,401 --> 00:05:26,656
+I cuccioli e le Tiffany 
+non sono da Pole Day.
+
+98
+00:05:27,001 --> 00:05:29,796
+E allora cosa lo e'? Perche' in due 
+anni che sono qui, non ne ho mai...
+
+99
+00:05:29,806 --> 00:05:32,423
+Gibson, mi piace la 
+tua felicita'. Davvero.
+
+100
+00:05:32,433 --> 00:05:35,331
+Ma riconoscero' il perfetto Pole Day 
+quando lo vedro'. Fidati...
+
+101
+00:05:35,341 --> 00:05:37,620
+Non e' oggi.
+
+102
+00:05:39,749 --> 00:05:41,883
+E' cosi' alto e lucido.
+
+103
+00:05:41,893 --> 00:05:45,092
+Sta li' a guardarci e 
+a prenderci in giro.
+
+104
+00:05:45,546 --> 00:05:46,962
+Lo sento che ci deride.
+
+105
+00:05:46,972 --> 00:05:50,225
+Che senso ha avere un palo da 
+pompieri e non lo usa mai nessuno?
+
+106
+00:05:53,036 --> 00:05:55,875
+E' come se pensassero che l'unica cosa
+a cui penso sia quel dannato palo.
+
+107
+00:05:55,885 --> 00:05:57,141
+Si'. Firma questo.
+
+108
+00:05:57,151 --> 00:05:59,943
+E quante volte devo dirlo? 
+Non correte quando ventiliamo...
+
+109
+00:05:59,953 --> 00:06:01,675
+State nel raggio o
+alla larga dal tetto.
+
+110
+00:06:01,685 --> 00:06:03,186
+- Cosi' ci si fa male.
+- Bevi.
+
+111
+00:06:03,196 --> 00:06:06,652
+Dobbiamo ricordarci di
+controllare il perimetro piu'...
+
+112
+00:06:09,190 --> 00:06:11,836
+- Questa non e' acqua.
+- E' un frullato proteico di cavolo.
+
+113
+00:06:11,846 --> 00:06:14,292
+- Hai saltato dei pasti.
+- Ora controlli anche quando mangio?
+
+114
+00:06:14,302 --> 00:06:16,776
+Qualcuno deve. Ho anche compilato 
+il rapporto dell'incidente,
+
+115
+00:06:16,786 --> 00:06:18,661
+ho tirato fuori l'agenda 
+per approvarla,
+
+116
+00:06:18,671 --> 00:06:21,989
+organizzato i controlli
+di manutenzione per ogni...
+
+117
+00:06:36,786 --> 00:06:39,332
+- Sei fortunata ad essere mia figlia.
+- Anche tu.
+
+118
+00:06:41,930 --> 00:06:45,380
+Quello che voglio dire e' che il
+bello del polpettone e' la carne.
+
+119
+00:06:45,390 --> 00:06:47,756
+Non mi dispiace il vegetariano, 
+soprattutto se lo fa Travis.
+
+120
+00:06:47,766 --> 00:06:48,984
+Gia', e' buono.
+
+121
+00:06:49,501 --> 00:06:51,825
+- Grazie. E' la ricetta di mio marito.
+- Che c'e', Dean?
+
+122
+00:06:51,835 --> 00:06:54,006
+Cerchi di mettere su peso
+per salvare piu' cuccioli?
+
+123
+00:06:54,016 --> 00:06:58,034
+Vuoi dirmi che ti sei allenata per le 
+Olimpiadi mangiando spaghetti di zucca?
+
+124
+00:06:58,044 --> 00:07:01,867
+Consumare un pasto a base di vegetali
+una volta a settimana ha molti benefici.
+
+125
+00:07:01,877 --> 00:07:04,914
+E' vero. L'ho verificato in prima
+persona, in, sai, sala operatoria.
+
+126
+00:07:04,924 --> 00:07:05,917
+Ovviamente.
+
+127
+00:07:05,927 --> 00:07:08,802
+Gia', ho visto tutto. Le arterie 
+intasate, il tessuto adiposo.
+
+128
+00:07:08,812 --> 00:07:11,247
+- Sapete, aprivo le persone...
+- Ok. Ok, l'abbiamo capito.
+
+129
+00:07:11,608 --> 00:07:12,642
+Ci vuole fegato
+
+130
+00:07:13,080 --> 00:07:14,284
+ad aprire qualcuno.
+
+131
+00:07:15,004 --> 00:07:16,065
+Mi piace il fegato.
+
+132
+00:07:16,512 --> 00:07:18,609
+Mi aspetto che tutti nella mia
+squadra ce l'abbiano.
+
+133
+00:07:18,619 --> 00:07:19,649
+Ok.
+
+134
+00:07:20,096 --> 00:07:21,933
+Ma che... cosa intende, esattamente?
+
+135
+00:07:21,943 --> 00:07:23,844
+- Oddio. Ci risiamo.
+- L'hai fatto.
+
+136
+00:07:24,905 --> 00:07:26,174
+L'undici settembre,
+
+137
+00:07:26,184 --> 00:07:28,633
+quando sono andato ad 
+aiutare alle Torri Gemelle...
+
+138
+00:07:30,398 --> 00:07:33,149
+E' stata la cosa piu' brutta che abbia 
+visto in vita mia. Lo e' ancora.
+
+139
+00:07:33,159 --> 00:07:35,166
+E mi ha colpito, tutto.
+
+140
+00:07:35,176 --> 00:07:37,077
+E Andrea... e' venuta li'.
+
+141
+00:07:37,087 --> 00:07:39,785
+E' saltata su un aereo da sola,
+
+142
+00:07:39,795 --> 00:07:43,805
+e' venuta a New York, e mi 
+ha ordinato di tornare a casa.
+
+143
+00:07:45,747 --> 00:07:47,117
+Mi ha salvato la vita.
+
+144
+00:07:49,081 --> 00:07:50,407
+Aveva dodici anni.
+
+145
+00:07:51,535 --> 00:07:53,491
+E mi ha trascinato indietro per il culo.
+
+146
+00:07:55,000 --> 00:07:56,916
+Mia figlia ha fegato. E' una forza.
+
+147
+00:07:56,926 --> 00:07:59,370
+Non ha bisogno di nessuno. 
+E' una piccola Rambo.
+
+148
+00:07:59,380 --> 00:08:02,510
+E la piccola Rambo dice di
+parlare di qualcos'altro.
+
+149
+00:08:02,957 --> 00:08:06,372
+- Parlerei di qualcos'altro... Dean.
+- Che diavolo ho fatto ora?
+
+150
+00:08:06,382 --> 00:08:08,896
+Che ne dici di finirla di mettere la
+tua divisa blu nel mio bucato.
+
+151
+00:08:08,906 --> 00:08:10,117
+Ti prego.
+
+152
+00:08:10,127 --> 00:08:12,175
+Non sono piu' una novellina. 
+Fatti il bucato da solo.
+
+153
+00:08:12,185 --> 00:08:13,760
+Aspetta. Non dite sul serio, giusto?
+
+154
+00:08:13,770 --> 00:08:16,274
+- I novellini devono fare il bucato?
+- In realta', si'.
+
+155
+00:08:16,892 --> 00:08:18,039
+Si', e' cosi'.
+
+156
+00:08:21,408 --> 00:08:22,694
+Odio quella storia.
+
+157
+00:08:22,704 --> 00:08:24,859
+L'ho sempre odiata.
+
+158
+00:08:24,869 --> 00:08:27,855
+Gia'. Pensa sia carino.
+Non era carino, era un disastro.
+
+159
+00:08:27,865 --> 00:08:30,196
+- Dimenticatelo.
+- Non posso. Io...
+
+160
+00:08:36,083 --> 00:08:38,471
+- Ti sei distratta?
+- Ci sto arrivando.
+
+161
+00:08:39,360 --> 00:08:41,702
+E' coraggioso. Persino per te.
+
+162
+00:08:42,227 --> 00:08:43,870
+Dillo e mi fermero'.
+
+163
+00:08:58,877 --> 00:09:01,326
+No. Aspetta. Io...
+
+164
+00:09:06,093 --> 00:09:08,759
+No, non lo faremo 
+adesso. Restituiscimelo.
+
+165
+00:09:09,739 --> 00:09:10,538
+Non e'...
+
+166
+00:09:10,548 --> 00:09:12,281
+- Non avresti dovuto vederlo ancora.
+- Ok.
+
+167
+00:09:12,291 --> 00:09:13,924
+- Ok.
+- Ok.
+
+168
+00:09:13,934 --> 00:09:15,723
+Cioe', credo di aver pensato...
+
+169
+00:09:16,704 --> 00:09:18,381
+Tu... non sembri felice.
+
+170
+00:09:18,391 --> 00:09:19,937
+Gia', no, non e'... cioe'...
+
+171
+00:09:19,947 --> 00:09:22,415
+Oh, Dio. Non... lo so...
+
+172
+00:09:22,425 --> 00:09:24,882
+- Non so... cosa dire.
+- Non vuoi sposarti e basta?
+
+173
+00:09:25,452 --> 00:09:26,453
+O...
+
+174
+00:09:27,255 --> 00:09:29,258
+Non vuoi sposarti con me?
+
+175
+00:09:29,719 --> 00:09:31,419
+<i>Scale, autopompa,
+
+176
+00:09:31,429 --> 00:09:33,608
+<i>automedica. 19, rispondi.
+
+177
+00:09:33,618 --> 00:09:35,106
+<i>C'e' un incendio in un appartamento.
+
+178
+00:09:57,049 --> 00:09:58,089
+Cos'e' successo?
+
+179
+00:09:59,392 --> 00:10:00,341
+Qualcosa di brutto?
+
+180
+00:10:01,613 --> 00:10:02,932
+Con Jack?
+
+181
+00:10:02,942 --> 00:10:04,112
+Quanto brutto?
+
+182
+00:10:04,886 --> 00:10:05,909
+Cosa?
+
+183
+00:10:07,280 --> 00:10:09,800
+Ti ha chiesto di sposarlo! Andy, e'...
+
+184
+00:10:11,454 --> 00:10:13,587
+Oh, non ne siamo felici.
+
+185
+00:10:13,597 --> 00:10:15,738
+Aspetta... come... perche'
+mai dovremmo esserlo?
+
+186
+00:10:15,748 --> 00:10:17,127
+A cosa stava pensando?
+
+187
+00:10:17,137 --> 00:10:18,266
+E' un mostro.
+
+188
+00:10:18,276 --> 00:10:20,656
+Non vuoi sistemarti.
+Sei concentrata sul tuo lavoro.
+
+189
+00:10:20,666 --> 00:10:22,161
+Sai, la parte divertente
+
+190
+00:10:22,171 --> 00:10:25,364
+- e' fare sesso di nascosto...
+- Ehi, di cosa stiamo parlando?
+
+191
+00:10:25,374 --> 00:10:26,832
+- Di niente, Novellino.
+- Di niente, Novellino.
+
+192
+00:10:34,282 --> 00:10:35,426
+<i>Ehi, abbiamo un problema...
+
+193
+00:10:35,436 --> 00:10:37,913
+- <i>Un idrante e' bloccato.</i>
+- Oh, cavolo, no!
+
+194
+00:10:38,345 --> 00:10:40,602
+E' tutto sotto controllo.
+Andiamo. Grazie.
+
+195
+00:10:41,226 --> 00:10:44,090
+- Parla Tanner.
+- La zona rossa e' per tutti.
+
+196
+00:10:47,529 --> 00:10:50,593
+- Merda. - L'ordine e':
+vecchiette, poliziotti, artificieri,
+
+197
+00:10:50,603 --> 00:10:52,816
+- FBI, CIA, Sicurezza Nazionale,
+- Fermati. Aspetta! Sto arrivando!
+
+198
+00:10:52,826 --> 00:10:55,176
+vigili del fuoco, chiunque
+scappi dall'apocalisse,
+
+199
+00:10:55,186 --> 00:10:58,132
+e poi Dio. Sei Dio?
+Perche' se non lo sei...
+
+200
+00:11:07,870 --> 00:11:09,354
+- Davvero?
+- Beh, mi serviva l'idrante.
+
+201
+00:11:09,364 --> 00:11:10,788
+- Non c'eri.
+- C'ero,
+
+202
+00:11:10,798 --> 00:11:12,686
+in fondo alla strada,
+evacuando le persone.
+
+203
+00:11:12,696 --> 00:11:14,957
+Ma la tua macchina stava bloccando
+la fonte d'acqua che ci serviva
+
+204
+00:11:14,967 --> 00:11:17,393
+- per spegnere il fuoco.
+- Non posso ignorare una richiesta d'aiuto.
+
+205
+00:11:17,403 --> 00:11:19,976
+Non mi aspetto che la ignori. Mi aspetto
+che tu stia attento a dove parcheggi
+
+206
+00:11:19,986 --> 00:11:22,349
+- quando lo fai. Ho chiamato.
+- Non mi hai dato tempo.
+
+207
+00:11:22,359 --> 00:11:24,044
+- Per gongolare! Troppo tardi.
+- Per dirtelo!
+
+208
+00:11:24,054 --> 00:11:26,379
+- Non puoi spingere la mia macchina!
+- Non puoi bloccare il mio idrante!
+
+209
+00:11:26,389 --> 00:11:27,518
+Questo non... tu...
+
+210
+00:11:28,038 --> 00:11:30,457
+- Lo diro' al mio capo.
+- Bene! Ed io al mio!
+
+211
+00:11:31,143 --> 00:11:33,143
+Parla... sempre cosi' al poliziotti?
+
+212
+00:11:34,464 --> 00:11:36,392
+Solo con quelli con
+cui e' andata al ballo.
+
+213
+00:11:36,402 --> 00:11:37,623
+<i>Mettetevi in coppia.
+
+214
+00:11:37,633 --> 00:11:39,402
+Nessuno escluso.
+
+215
+00:11:39,412 --> 00:11:41,847
+Nessuno se ne va per
+conto proprio. Capito?
+
+216
+00:11:47,901 --> 00:11:50,626
+Il fuoco e' li' dentro, e noi siamo qui
+fuori. Qual e' la prossima mossa?
+
+217
+00:11:50,636 --> 00:11:52,246
+Veloce. Come ci muoviamo?
+
+218
+00:11:52,256 --> 00:11:53,813
+Rompiamo il vetro per
+creare un punto di accesso.
+
+219
+00:11:53,823 --> 00:11:55,048
+Va bene, perfetto. Fai attenzione.
+
+220
+00:11:57,528 --> 00:11:59,621
+Perfetto. Porta aperta o chiusa?
+
+221
+00:11:59,631 --> 00:12:01,165
+- Chiusa?
+- E' una domanda?
+
+222
+00:12:01,175 --> 00:12:04,357
+Chiusa! Per mantenere una
+barriera protettiva tra noi e le fiamme.
+
+223
+00:12:04,367 --> 00:12:05,384
+Bene,
+
+224
+00:12:05,394 --> 00:12:06,771
+lo colpiamo da qui.
+
+225
+00:12:17,979 --> 00:12:19,052
+Ora entriamo?
+
+226
+00:12:19,377 --> 00:12:20,520
+Ora entriamo.
+
+227
+00:12:25,355 --> 00:12:26,471
+Attenti!
+
+228
+00:12:27,309 --> 00:12:29,437
+Attenzione alle fiamme ancora accese.
+
+229
+00:12:29,447 --> 00:12:31,917
+La visibilita' e' scarsa.
+Procederemo con calma.
+
+230
+00:12:31,927 --> 00:12:33,499
+State vicini.
+
+231
+00:12:33,509 --> 00:12:34,935
+Ricevuto.
+
+232
+00:12:48,497 --> 00:12:51,157
+Ho trovato la stanza di
+un bambino. Ricontrollo...
+
+233
+00:12:51,167 --> 00:12:52,747
+Che nessuno si stia nascondendo.
+
+234
+00:12:54,242 --> 00:12:55,375
+C'e' nessuno?
+
+235
+00:12:56,413 --> 00:12:57,902
+C'e' nessuno?
+
+236
+00:12:59,634 --> 00:13:02,167
+Via libera, Capitano.
+Esco per riunirmi a voi.
+
+237
+00:13:02,177 --> 00:13:03,368
+Come va la perlustrazione?
+
+238
+00:13:06,235 --> 00:13:07,334
+Capitano?
+
+239
+00:13:10,193 --> 00:13:11,387
+Capitano?
+
+240
+00:13:14,910 --> 00:13:16,360
+<i>Herrera, ci sei?
+
+241
+00:13:16,370 --> 00:13:18,865
+- Dimmi, cosa ti serve?
+- <i>L'ho perso.
+
+242
+00:13:18,875 --> 00:13:21,164
+- Cosa?
+- L'ho perso, Andy. Non lo trovo piu'.
+
+243
+00:13:21,695 --> 00:13:23,262
+Ho perso tuo padre.
+
+244
+00:13:27,330 --> 00:13:29,076
+Perche' cazzo vi siete divisi?
+
+245
+00:13:29,086 --> 00:13:30,979
+- Ha detto di non andare da soli.
+- Lo so.
+
+246
+00:13:30,989 --> 00:13:32,625
+- Dove hai gia' cercato?
+- Nella stanza del bambino,
+
+247
+00:13:32,635 --> 00:13:34,436
+in cucina, e sono
+tornato sui miei passi.
+
+248
+00:13:34,446 --> 00:13:36,960
+Va bene, ispezioniamo ancora
+ogni stanza, centimetro per centimetro.
+
+249
+00:13:47,663 --> 00:13:48,950
+Maya, cosa c'e'?
+
+250
+00:13:48,960 --> 00:13:50,377
+Vienite qui!
+
+251
+00:13:54,209 --> 00:13:55,210
+Ehi!
+
+252
+00:13:56,577 --> 00:13:59,335
+Andiamo, prendigli la bombola.
+Lo portiamo all'ingresso.
+
+253
+00:13:59,345 --> 00:14:00,765
+Prendila!
+
+254
+00:14:00,775 --> 00:14:02,994
+Ci occuperemo di lui giu' dalle scale.
+
+255
+00:14:03,004 --> 00:14:04,336
+- Fermi!
+- No, non c'e' tempo.
+
+256
+00:14:04,346 --> 00:14:06,189
+Non sappiamo da
+quanto tempo e' svenuto.
+
+257
+00:14:06,199 --> 00:14:07,679
+- Non respira
+- Non possiamo saperlo.
+
+258
+00:14:07,689 --> 00:14:09,170
+Ecco perche' dobbiamo
+portarlo subito fuori di qui.
+
+259
+00:14:09,180 --> 00:14:11,290
+Non lui... quello. Guardate...
+
+260
+00:14:11,300 --> 00:14:12,629
+Guardate il fumo.
+
+261
+00:14:14,226 --> 00:14:15,408
+Sta vorticando verso il basso.
+
+262
+00:14:15,418 --> 00:14:16,525
+Sta soffocando.
+
+263
+00:14:16,535 --> 00:14:17,752
+Il fuoco non sta respirando.
+
+264
+00:14:17,762 --> 00:14:19,192
+E' ad un punto di esplosione.
+
+265
+00:14:19,202 --> 00:14:20,775
+- Merda.
+- Dobbiamo andare.
+
+266
+00:14:20,785 --> 00:14:22,367
+Andiamo, andiamo.
+
+267
+00:14:32,036 --> 00:14:34,859
+Abbiamo cinque o sei minuti
+prima che esploda la porta
+
+268
+00:14:34,869 --> 00:14:37,548
+- e anche questa stanza.
+- Dobbiamo uscire di qua.
+
+269
+00:14:37,993 --> 00:14:40,126
+- L'unica e' dalla finestra.
+- La finestra no.
+
+270
+00:14:40,136 --> 00:14:43,466
+Quando apriremo entrera'
+ossigeno in questa stanza...
+
+271
+00:14:43,476 --> 00:14:45,087
+- Boom.
+- Ragazzi!
+
+272
+00:14:45,097 --> 00:14:46,798
+Non sento il battito del Capitano.
+
+273
+00:14:48,806 --> 00:14:50,290
+Aiutatemi ad aprire la tuta.
+
+274
+00:14:50,300 --> 00:14:52,345
+Andy, se lo facciamo ed esplode tutto...
+
+275
+00:14:52,355 --> 00:14:54,761
+Allora muore lo stesso.
+Aiutami a liberarlo.
+
+276
+00:14:55,121 --> 00:14:57,313
+- Togli la bombola.
+- Dobbiamo trovare il bottone.
+
+277
+00:15:02,250 --> 00:15:05,450
+- Il fuoco e' alla porta.
+- Abbiamo due minuti, forse meno.
+
+278
+00:15:05,460 --> 00:15:07,615
+Ci sono le scale antincendio,
+se le raggiungessimo.
+
+279
+00:15:07,625 --> 00:15:10,364
+Non possiamo saltare da qui,
+soprattutto col Capitano.
+
+280
+00:15:10,374 --> 00:15:11,740
+Mayday. Autoscala 19.
+
+281
+00:15:11,750 --> 00:15:14,538
+Ci serve un telo all'angolo
+dell'edificio. Ripeto...
+
+282
+00:15:14,548 --> 00:15:16,426
+Mayday. Mi sentite?
+
+283
+00:15:17,220 --> 00:15:18,880
+In un modo o nell'altro usciamo.
+
+284
+00:15:18,890 --> 00:15:21,083
+Faccio un punto di ancoraggio. Gibson...
+
+285
+00:15:21,093 --> 00:15:22,600
+Sistemo l'imbracatura.
+
+286
+00:15:36,709 --> 00:15:38,961
+- Fiamme alla porta.
+- Dobbiamo andare, ora.
+
+287
+00:15:38,971 --> 00:15:40,858
+- Adesso, Andy.
+- No.
+
+288
+00:15:40,868 --> 00:15:43,783
+- Andy.
+- Non ci muoviamo finche' non sento il battito.
+
+289
+00:15:57,496 --> 00:15:59,193
+- C'e' battito!
+- Andiamo.
+
+290
+00:16:02,835 --> 00:16:04,293
+Uno, due, tre.
+
+291
+00:16:07,106 --> 00:16:08,482
+Alzatelo. Fatto.
+
+292
+00:16:08,936 --> 00:16:10,457
+Il fuoco e' affamato d'aria.
+
+293
+00:16:10,467 --> 00:16:12,232
+Appena rompiamo il vetro, esplodera'.
+
+294
+00:16:12,242 --> 00:16:14,435
+Allora saltiamo il piu'
+veloce possibile.
+
+295
+00:16:14,445 --> 00:16:15,775
+O voliamo o friggiamo.
+
+296
+00:16:16,149 --> 00:16:17,446
+Senza caschi.
+
+297
+00:16:18,623 --> 00:16:21,639
+Dobbiamo essere precisi.
+Non abbiamo margine di errore.
+
+298
+00:16:22,171 --> 00:16:23,574
+Dobbiamo andare ora.
+
+299
+00:16:24,012 --> 00:16:25,464
+- Ce la faremo.
+- Sara' meglio.
+
+300
+00:16:25,474 --> 00:16:27,179
+Ragazzi, lo facciamo davvero?
+
+301
+00:16:57,092 --> 00:16:58,669
+Non ci credo, ha funzionato.
+
+302
+00:17:19,499 --> 00:17:20,675
+Stai bene?
+
+303
+00:17:22,400 --> 00:17:24,118
+Non c'e' polso, e' a rischio di coagulo.
+
+304
+00:17:24,128 --> 00:17:26,010
+- Serve una flebo di eparina.
+- No.
+
+305
+00:17:26,020 --> 00:17:28,057
+Dobbiamo dargli solo ossigeno, ok?
+
+306
+00:17:28,067 --> 00:17:29,728
+Andiamo, andiamo.
+
+307
+00:17:37,854 --> 00:17:39,017
+Stai bene?
+
+308
+00:17:56,018 --> 00:17:57,591
+Respira, Andrea.
+
+309
+00:17:57,601 --> 00:17:59,401
+Sei uscita, l'hai tirato fuori.
+
+310
+00:17:59,411 --> 00:18:00,932
+Ora puoi respirare.
+
+311
+00:18:01,698 --> 00:18:03,225
+Respira e basta,
+
+312
+00:18:03,235 --> 00:18:04,254
+ok?
+
+313
+00:18:07,676 --> 00:18:08,772
+Respira.
+
+314
+00:18:09,918 --> 00:18:10,947
+Ok.
+
+315
+00:18:17,127 --> 00:18:18,383
+Va tutto bene.
+
+316
+00:18:20,607 --> 00:18:21,623
+Ok.
+
+317
+00:18:23,757 --> 00:18:25,592
+Portiamolo all'ospedale,
+
+318
+00:18:25,602 --> 00:18:27,014
+adesso, cazzo!
+
+319
+00:18:34,697 --> 00:18:37,014
+La pressione e' 80 su 50... e' bassissima.
+
+320
+00:18:37,024 --> 00:18:40,034
+- Ha avuto problemi cardiaci in passato?
+- Avresti potuto ucciderlo.
+
+321
+00:18:40,044 --> 00:18:43,069
+- Come, scusa?
+- Non puoi dare anticoagulanti ad un paziente
+
+322
+00:18:43,079 --> 00:18:44,216
+sul campo.
+
+323
+00:18:44,226 --> 00:18:47,107
+Non sai la sua storia clinica
+o se ha subito un trauma.
+
+324
+00:18:47,117 --> 00:18:48,326
+Se l'avesse subito?
+
+325
+00:18:48,336 --> 00:18:50,242
+Potrebbero esserci emorragie interne,
+
+326
+00:18:50,252 --> 00:18:51,575
+emorragie craniche.
+
+327
+00:18:52,014 --> 00:18:54,874
+Non possiamo curare emorragie
+cerebrali in questo ambiente.
+
+328
+00:18:55,381 --> 00:18:56,674
+L'avresti ucciso
+
+329
+00:18:56,684 --> 00:18:58,086
+davanti a sua figlia.
+
+330
+00:18:59,083 --> 00:19:01,654
+Quello di cui ci occupiamo
+noi e quello che fai in sala operatoria
+
+331
+00:19:01,664 --> 00:19:03,564
+sono due cose completamente diverse.
+
+332
+00:19:07,990 --> 00:19:09,192
+Siamo arrivati.
+
+333
+00:19:25,878 --> 00:19:28,833
+Uomo di 62 anni, trovato
+privo di sensi in un incendio.
+
+334
+00:19:28,843 --> 00:19:30,584
+Possibile intossicazione da fumo.
+
+335
+00:19:31,128 --> 00:19:34,668
+E' svenuto mentre era in
+servizio. Rianimato sul posto.
+
+336
+00:19:35,003 --> 00:19:36,056
+Ok.
+
+337
+00:19:36,737 --> 00:19:38,090
+Al mio tre.
+
+338
+00:19:38,100 --> 00:19:40,375
+E uno, due e tre.
+
+339
+00:19:47,686 --> 00:19:49,290
+Ci serve un ECG.
+
+340
+00:19:58,584 --> 00:20:00,749
+Ok, mi serve un ecografo portatile.
+
+341
+00:20:06,182 --> 00:20:08,100
+- Dovresti prendere un po' di ossigeno.
+- Sto bene.
+
+342
+00:20:08,110 --> 00:20:09,377
+- Non e' vero.
+- Si'.
+
+343
+00:20:09,387 --> 00:20:11,636
+- Ok, hai ragione, non e' vero.
+- Sei arrabbiata.
+
+344
+00:20:12,644 --> 00:20:14,489
+- Anche io ce l'ho con me stesso.
+- No,
+
+345
+00:20:14,499 --> 00:20:16,812
+non saresti dovuto sparire.
+Dovevi essere piu' attento.
+
+346
+00:20:16,822 --> 00:20:18,941
+Ero attento. Ho visto la
+stanza di un bambino.
+
+347
+00:20:18,951 --> 00:20:21,163
+- Sai che si nascondono.
+- Fai sempre cosi'.
+
+348
+00:20:21,563 --> 00:20:23,923
+Ti butti nelle cose
+senza pensarci prima,
+
+349
+00:20:23,933 --> 00:20:26,468
+- senza consultare nessuno.
+- Non fare cosi',
+
+350
+00:20:26,478 --> 00:20:28,327
+- non confondere le cose.
+- Non lo sto facendo.
+
+351
+00:20:28,337 --> 00:20:30,237
+Sei stato distratto e imprudente.
+
+352
+00:20:30,247 --> 00:20:31,721
+Sei arrabbiata per prima.
+
+353
+00:20:32,029 --> 00:20:35,376
+- Per l'anello. E ora hai paura per tuo padre.
+- Stai scherzando?
+
+354
+00:20:35,921 --> 00:20:37,618
+Pensi che in questo
+momento mi interessi
+
+355
+00:20:37,628 --> 00:20:39,846
+dello stupido anello di fidanzamento
+
+356
+00:20:39,856 --> 00:20:42,030
+- quando mio padre potrebbe non risvegliarsi?
+- No, non e'...
+
+357
+00:20:42,040 --> 00:20:45,687
+- L'hai lasciato solo in un incendio!
+- Lo so! Lo so!
+
+358
+00:20:59,653 --> 00:21:00,691
+<i>Herrera?
+
+359
+00:21:01,065 --> 00:21:02,297
+Ciao.
+
+360
+00:21:02,636 --> 00:21:04,231
+Ho saputo di tuo padre.
+
+361
+00:21:04,241 --> 00:21:06,245
+Volevo sapere come stai.
+
+362
+00:21:06,255 --> 00:21:10,081
+Bailey sta per eseguire una laparotomia
+esplorativa, pensavo di andare anche io.
+
+363
+00:21:10,091 --> 00:21:11,425
+Stai bene?
+
+364
+00:21:18,355 --> 00:21:19,728
+Andiamo.
+
+365
+00:22:02,887 --> 00:22:03,929
+Ok.
+
+366
+00:22:04,277 --> 00:22:05,509
+Basta cosi'.
+
+367
+00:22:07,484 --> 00:22:08,826
+Basta lacrime.
+
+368
+00:22:08,836 --> 00:22:11,471
+Ci pensiamo noi a tuo padre.
+Adesso sii coraggiosa per lui.
+
+369
+00:22:11,481 --> 00:22:12,513
+Va bene?
+
+370
+00:22:13,023 --> 00:22:14,042
+Va bene.
+
+371
+00:22:41,371 --> 00:22:42,707
+E' andato tutto bene.
+
+372
+00:22:43,122 --> 00:22:44,188
+Grazie mille.
+
+373
+00:22:44,198 --> 00:22:45,258
+<i>- Bene.
+- Grazie.
+
+374
+00:22:46,623 --> 00:22:49,560
+Andy... devo parlarti un attimo da sola.
+
+375
+00:22:58,933 --> 00:23:01,004
+Per quanto tempo ero incosciente?
+
+376
+00:23:07,889 --> 00:23:09,972
+Mesotelioma peritoneale.
+
+377
+00:23:10,899 --> 00:23:12,766
+Tumore dell'addome...
+
+378
+00:23:12,776 --> 00:23:14,046
+Con emorragia.
+
+379
+00:23:14,469 --> 00:23:16,246
+Lo so perche' l'ho scritto.
+
+380
+00:23:17,181 --> 00:23:18,776
+Ecco perche' sei svenuto.
+
+381
+00:23:19,921 --> 00:23:21,580
+Hai il cancro, papa'.
+
+382
+00:23:22,203 --> 00:23:23,857
+- Al secondo stadio.
+- Andrea.
+
+383
+00:23:23,867 --> 00:23:26,148
+I sintomi includono,
+in ordine di gravita'...
+
+384
+00:23:26,861 --> 00:23:28,900
+Dolore addominale, stanchezza,
+
+385
+00:23:28,910 --> 00:23:31,390
+senso di sazieta', irritabilita',
+
+386
+00:23:31,400 --> 00:23:32,656
+arresto cardiaco.
+
+387
+00:23:34,746 --> 00:23:36,030
+Quanti sintomi...
+
+388
+00:23:36,040 --> 00:23:37,220
+Hai gia' accusato?
+
+389
+00:23:37,782 --> 00:23:40,425
+Li hai ignorati o hai
+deciso di nasconderli
+
+390
+00:23:40,435 --> 00:23:42,966
+- a me?
+- Devo dimettermi da Capitano,
+
+391
+00:23:42,976 --> 00:23:45,378
+- con effetto immediato.
+- Lo sapevi gia'?
+
+392
+00:23:45,388 --> 00:23:47,895
+Non c'e' tempo per arrabbiarsi...
+
+393
+00:23:47,905 --> 00:23:49,018
+<i>Mija</i>.
+
+394
+00:23:49,028 --> 00:23:50,385
+Non ho molto tempo.
+
+395
+00:23:51,034 --> 00:23:52,483
+Non abbiamo molto tempo.
+
+396
+00:23:53,640 --> 00:23:57,265
+Il Dipartimento ovviamente ci mettera'
+un po' prima di assegnare il posto.
+
+397
+00:23:58,167 --> 00:24:00,320
+Ci mettono sempre un po'.
+Gibson dovra'...
+
+398
+00:24:00,699 --> 00:24:03,171
+Dovra' dirigere la stazione fino
+a quando non decideranno.
+
+399
+00:24:03,495 --> 00:24:04,975
+Lasci il comando a Jack?
+
+400
+00:24:04,985 --> 00:24:07,050
+Lui e' il mio... tenente.
+
+401
+00:24:07,785 --> 00:24:08,917
+Adesso vai.
+
+402
+00:24:09,697 --> 00:24:11,204
+Lasciami dormire.
+
+403
+00:24:14,022 --> 00:24:15,029
+Papa'.
+
+404
+00:24:15,912 --> 00:24:16,976
+Papa'.
+
+405
+00:24:50,380 --> 00:24:53,097
+- Che ci fai qui?
+- Vivo qui accanto piu' o meno da sempre.
+
+406
+00:24:53,107 --> 00:24:55,290
+No, i tuoi genitori vivono li'.
+
+407
+00:24:55,300 --> 00:24:57,316
+- Tu ti sei trasferito anni fa.
+- E...
+
+408
+00:24:57,326 --> 00:24:59,583
+Mi sono ritrasferito...
+settimana scorsa, ieri pero'
+
+409
+00:24:59,593 --> 00:25:01,023
+ho portato tutte le mie cose,
+
+410
+00:25:01,033 --> 00:25:03,083
+ma e' temporaneo e non ha importanza.
+
+411
+00:25:03,093 --> 00:25:04,526
+Per nulla, perche'...
+
+412
+00:25:05,959 --> 00:25:07,322
+Come sta tuo padre?
+
+413
+00:25:07,332 --> 00:25:08,360
+Sta bene?
+
+414
+00:25:08,370 --> 00:25:10,170
+- Come stai?
+- Oh, veramente sto bene.
+
+415
+00:25:10,180 --> 00:25:11,766
+Oggi e' stata una giornata fantastica.
+
+416
+00:25:11,776 --> 00:25:13,081
+Sto benissimo.
+
+417
+00:25:13,808 --> 00:25:15,335
+Ho rifiutato una proposta di matrimonio,
+
+418
+00:25:15,345 --> 00:25:17,072
+per poco mio padre non moriva,
+
+419
+00:25:17,082 --> 00:25:18,652
+in realta' anche io, ma chi se ne frega!
+
+420
+00:25:18,662 --> 00:25:20,740
+Perche' a quanto pare
+mio padre ha il cancro
+
+421
+00:25:20,750 --> 00:25:23,180
+e ha deciso di promuovere il mio
+presunto fidanzato a capo.
+
+422
+00:25:23,190 --> 00:25:25,735
+Tutti prendono decisioni riguardanti
+la mia vita senza me,
+
+423
+00:25:25,745 --> 00:25:27,796
+quindi il mio mondo sta
+crollando, sono al...
+
+424
+00:25:27,806 --> 00:25:29,651
+Terzo giro di lavatrice,
+e ho bevuto altrettante birre.
+
+425
+00:25:29,661 --> 00:25:31,741
+Le cose vanno benissimo,
+oggi va tutto...
+
+426
+00:25:32,357 --> 00:25:33,450
+Benissimo.
+
+427
+00:25:34,499 --> 00:25:35,656
+Entra pure.
+
+428
+00:25:36,615 --> 00:25:37,770
+Tuo padre si dimette?
+
+429
+00:25:37,780 --> 00:25:39,570
+- Cancro, Ryan. Stai al passo.
+- Si', ok...
+
+430
+00:25:39,580 --> 00:25:41,729
+- Jake prendera' il suo posto.
+- Ma...
+
+431
+00:25:42,219 --> 00:25:45,072
+Chi se ne frega se e' impulsivo
+e imprudente.
+
+432
+00:25:45,495 --> 00:25:49,234
+Cioe', meta' del lavoro e' compilare
+rapporti, non ne ha mai compilato uno.
+
+433
+00:25:49,244 --> 00:25:51,536
+Lo sai perche' lo so?
+Li ho sempre fatti io.
+
+434
+00:25:51,899 --> 00:25:53,021
+Fallo tu allora.
+
+435
+00:25:53,031 --> 00:25:54,072
+Cosa?
+
+436
+00:25:54,548 --> 00:25:56,258
+Dovresti prendere il posto di tuo padre.
+
+437
+00:25:56,268 --> 00:25:58,168
+- Si', certo.
+- Perche' no?
+
+438
+00:25:58,192 --> 00:25:59,680
+Sei la piu' tosta di tutti.
+
+439
+00:25:59,690 --> 00:26:02,642
+- Hai trascorso la tua vita allenandoti.
+- Non funziona cosi'.
+
+440
+00:26:02,652 --> 00:26:04,951
+- Jack e' diventato tenente prima di me.
+- E chi decide?
+
+441
+00:26:05,528 --> 00:26:06,627
+Tuo padre?
+
+442
+00:26:07,170 --> 00:26:08,859
+- Cosa stai dicendo?
+- Ascolta...
+
+443
+00:26:09,952 --> 00:26:12,014
+Voglio bene a tuo padre, da sempre.
+
+444
+00:26:12,024 --> 00:26:13,168
+Lo sai.
+
+445
+00:26:14,164 --> 00:26:17,583
+Ma a lui piace averti accanto a
+prenderti cura delle cose, diverso dal...
+
+446
+00:26:18,870 --> 00:26:20,187
+Metterti al comando.
+
+447
+00:26:29,150 --> 00:26:31,642
+I dottori pensano sia malato da un po'.
+
+448
+00:26:33,646 --> 00:26:36,670
+- Ha iniziato ad avere qualche sintomo?
+- Non lo so. Non me l'ha detto.
+
+449
+00:26:37,399 --> 00:26:38,720
+Vivo con lui.
+
+450
+00:26:38,730 --> 00:26:39,959
+Pulisco per lui.
+
+451
+00:26:39,969 --> 00:26:42,631
+- Gli faccio il bucato.
+- E non ti ha detto una cosa del genere?
+
+452
+00:26:42,641 --> 00:26:44,463
+- Pare di no. Infatti!
+- Ma che diavolo...
+
+453
+00:26:44,473 --> 00:26:47,280
+- Mi da un fastidio! Grazie!
+- Anche a me, per te! Di niente!
+
+454
+00:26:52,957 --> 00:26:54,148
+Comunque, davvero...
+
+455
+00:26:56,453 --> 00:26:57,606
+Mi dispiace.
+
+456
+00:27:08,194 --> 00:27:10,461
+Non ce la posso fare ancora, Ryan.
+
+457
+00:27:13,511 --> 00:27:16,379
+Non posso veder morire
+anche mio padre.
+
+458
+00:27:17,112 --> 00:27:18,790
+Stavolta sara' diverso.
+
+459
+00:27:19,648 --> 00:27:20,980
+L'altra volta...
+
+460
+00:27:21,803 --> 00:27:23,583
+Avevi nove anni.
+
+461
+00:27:23,593 --> 00:27:25,146
+Entrambi avevamo nove anni.
+
+462
+00:27:35,347 --> 00:27:37,127
+Andy, hai bevuto e...
+
+463
+00:27:37,137 --> 00:27:38,731
+Beh, non siamo piu'
+
+464
+00:27:38,741 --> 00:27:40,434
+al liceo, Ryan,
+
+465
+00:27:40,444 --> 00:27:42,035
+e non sono ubriaca.
+
+466
+00:27:42,045 --> 00:27:43,213
+Credimi.
+
+467
+00:27:44,383 --> 00:27:46,342
+Dai, mettimi alla prova. Fammi un...
+
+468
+00:27:46,352 --> 00:27:48,550
+Alcol test, se vuoi. Forza.
+
+469
+00:27:49,113 --> 00:27:50,116
+Vedi?
+
+470
+00:27:50,765 --> 00:27:52,113
+So bene
+
+471
+00:27:52,123 --> 00:27:53,596
+cosa sto facendo.
+
+472
+00:28:24,376 --> 00:28:26,441
+Quindi e' qui che lavori?
+
+473
+00:28:26,838 --> 00:28:28,067
+Esatto.
+
+474
+00:28:28,077 --> 00:28:29,423
+E' impressionante.
+
+475
+00:28:31,576 --> 00:28:32,947
+Perche' quella faccia?
+
+476
+00:28:34,066 --> 00:28:38,561
+Ho appena fatto un complimento
+spontaneo al tuo nuovo posto di lavoro.
+
+477
+00:28:38,571 --> 00:28:40,392
+Si', lo so. E' che...
+
+478
+00:28:41,678 --> 00:28:43,496
+Pensavo sarei stato piu' bravo.
+
+479
+00:28:43,506 --> 00:28:46,967
+Ho superato l'addestramento alla grande,
+conosco il primo soccorso.
+
+480
+00:28:46,977 --> 00:28:48,261
+Pensavo:
+
+481
+00:28:48,271 --> 00:28:49,812
+"Ce la faro'", ma...
+
+482
+00:28:50,478 --> 00:28:51,977
+Poi, ieri sera...
+
+483
+00:28:55,029 --> 00:28:56,874
+Ho fatto un casino, Miranda.
+
+484
+00:28:56,884 --> 00:28:59,204
+Poteva andare davvero male.
+
+485
+00:28:59,214 --> 00:29:02,487
+Volevo mostrare a tutti quanto
+sono bravo, ma invece...
+
+486
+00:29:02,497 --> 00:29:05,420
+E' questo il tuo problema.
+Smettila di pavoneggiarti.
+
+487
+00:29:05,960 --> 00:29:10,507
+L'unico modo per dimostrare che sei
+bravo e' semplicemente essere bravo.
+
+488
+00:29:17,636 --> 00:29:19,929
+Senti, se qualcuno puo'
+farcela, quello sei tu.
+
+489
+00:29:21,981 --> 00:29:24,542
+- Devo solo essere bravo.
+- Devi solo essere bravo.
+
+490
+00:29:24,552 --> 00:29:26,361
+Lo fai sembrare cosi' facile.
+
+491
+00:29:26,950 --> 00:29:28,704
+Per alcuni di noi lo e'.
+
+492
+00:29:34,244 --> 00:29:35,614
+Ehi, Andy e' con te?
+
+493
+00:29:35,624 --> 00:29:38,076
+Un ora prima del turno
+per andare a correre?
+
+494
+00:29:38,086 --> 00:29:39,891
+Che divertente. Sei simpatico.
+
+495
+00:29:41,239 --> 00:29:44,058
+Ti ha parlato dell'anello, per caso?
+
+496
+00:29:44,068 --> 00:29:47,017
+- Ah, si'.
+- Ha detto che non volevo ancora darglielo?
+
+497
+00:29:47,027 --> 00:29:50,590
+Ha dato di matto come se fosse
+l'idea piu' stupida del mondo.
+
+498
+00:29:53,117 --> 00:29:57,218
+Sai, credo che stesse dando
+di matto anche per suo padre.
+
+499
+00:29:57,228 --> 00:29:58,627
+Non e' cosi' strano.
+
+500
+00:29:58,637 --> 00:30:01,434
+I miei genitori si sono sposati
+dopo sei mesi e sono stati felici.
+
+501
+00:30:01,444 --> 00:30:03,471
+Io e Andy stiamo bene insieme.
+
+502
+00:30:03,481 --> 00:30:06,294
+- Non sono una scelta cosi' terribile.
+- Hai ragione.
+
+503
+00:30:06,304 --> 00:30:08,200
+Sei cosi' sexy.
+
+504
+00:30:08,210 --> 00:30:10,749
+- Puoi avere chi vuoi.
+- Non e'...
+
+505
+00:30:12,905 --> 00:30:14,352
+Non e' quello che voglio.
+
+506
+00:30:14,752 --> 00:30:15,764
+Io...
+
+507
+00:30:16,325 --> 00:30:18,220
+Io la amo,
+
+508
+00:30:18,230 --> 00:30:19,759
+e se lei non mi ama,
+
+509
+00:30:19,769 --> 00:30:21,424
+perche' non me lo dice e basta?
+
+510
+00:30:27,110 --> 00:30:31,355
+- Hai fatto sesso con Ryan? Il poliziotto?
+- L'ho cacciato e sono venuta da te...
+
+511
+00:30:31,365 --> 00:30:33,356
+- Il tuo amico d'infanzia, Ryan?
+- Ok, sul serio,
+
+512
+00:30:33,366 --> 00:30:36,628
+- e' difficile parlarti se corri.
+- Cavolo, si'.
+
+513
+00:30:36,638 --> 00:30:39,351
+- Ottima scelta, e' sexy.
+- Si', ma come faccio con Jack?
+
+514
+00:30:39,361 --> 00:30:41,389
+Sei stata col tuo ex dopo
+che tuo padre e' quasi morto.
+
+515
+00:30:41,399 --> 00:30:44,174
+Ci sono passata anche io,
+ed e' solo una ricaduta.
+
+516
+00:30:44,184 --> 00:30:46,159
+Ah, si'? Non lo so, voglio dire...
+
+517
+00:30:46,169 --> 00:30:48,976
+Lui vuole che sia chiara
+con lui se non provo nulla.
+
+518
+00:30:48,986 --> 00:30:52,357
+Io provo qualcosa per lui, ma forse
+non abbastanza da sposarlo.
+
+519
+00:30:52,367 --> 00:30:55,690
+Ok, ok. No, no. Fermati. Stai andando
+nel panico. Noi non andiamo nel panico.
+
+520
+00:30:55,700 --> 00:30:57,639
+Non quando parliamo di ragazzi.
+
+521
+00:30:57,649 --> 00:31:00,213
+- Siamo troppo fantastiche per farlo.
+- Sono una persona orribile.
+
+522
+00:31:00,223 --> 00:31:03,200
+No, ti senti in modo
+orribile, che e' diverso.
+
+523
+00:31:04,676 --> 00:31:07,480
+- Qual e' la mia regola? Qual e'?
+- Non e'...
+
+524
+00:31:08,405 --> 00:31:09,570
+"Accetta il dolore".
+
+525
+00:31:09,580 --> 00:31:12,247
+- Ma non ci stiamo allenando.
+- "Accetta il dolore".
+
+526
+00:31:12,257 --> 00:31:14,503
+Continua, sentiti in modo
+orribile per un po'.
+
+527
+00:31:14,513 --> 00:31:15,748
+Poi usa quel dolore.
+
+528
+00:31:16,081 --> 00:31:17,682
+E' cosi' che ho vinto la medaglia.
+
+529
+00:31:18,015 --> 00:31:21,857
+Dimentica i ragazzi per ora.
+Ignora le distrazioni.
+
+530
+00:31:21,867 --> 00:31:24,564
+Cerca la tua medaglia e rincorrila.
+
+531
+00:31:24,909 --> 00:31:27,394
+Il resto si mettera' a posto da se'.
+
+532
+00:31:31,408 --> 00:31:33,380
+Sei tutta sudata e bagnata.
+
+533
+00:31:33,390 --> 00:31:34,709
+- E' vero.
+- Che schifo.
+
+534
+00:31:43,685 --> 00:31:44,685
+Che c'e'?
+
+535
+00:31:46,465 --> 00:31:47,890
+Hai qualcosa di diverso.
+
+536
+00:31:49,260 --> 00:31:50,605
+La tua energia, il...
+
+537
+00:31:50,615 --> 00:31:51,615
+Tuo aspetto.
+
+538
+00:31:54,515 --> 00:31:55,750
+Hai fatto qualcosa.
+
+539
+00:31:56,625 --> 00:31:58,445
+Magari la scorsa notte...
+
+540
+00:31:59,455 --> 00:32:01,580
+Hai fatto sesso!
+
+541
+00:32:01,590 --> 00:32:04,505
+- Che macchina del sesso!
+- L'ha detto la mia energia?
+
+542
+00:32:04,515 --> 00:32:07,475
+No, il tuo telefono sta esplodendo
+e io sono un'impicciona!
+
+543
+00:32:44,970 --> 00:32:47,535
+- Che abbiamo?
+- Per di qua. Ho isolato il perimetro.
+
+544
+00:32:47,545 --> 00:32:51,050
+Studentessa dell'ultimo anno, cosciente,
+un po' disorientata, si chiama Becca.
+
+545
+00:32:51,060 --> 00:32:53,255
+Alcuni studenti l'hanno sentita urlare.
+
+546
+00:32:53,265 --> 00:32:55,050
+- Ciao, comunque.
+- Ciao.
+
+547
+00:32:57,470 --> 00:32:58,730
+Aiutatemi!
+
+548
+00:33:06,455 --> 00:33:09,250
+Quella... quella cosa che
+e' successa a casa mia...
+
+549
+00:33:10,295 --> 00:33:13,920
+- Non siamo obbligati a parlarne.
+- Certo, d'accordo.
+
+550
+00:33:14,500 --> 00:33:16,300
+Non c'e' nulla da dire, comunque.
+
+551
+00:33:17,110 --> 00:33:18,185
+Siamo a posto.
+
+552
+00:33:19,470 --> 00:33:20,600
+"Siamo a posto"?
+
+553
+00:33:21,225 --> 00:33:23,230
+Aspetta, che significa "siamo a posto"?
+
+554
+00:33:27,610 --> 00:33:28,765
+Becca...
+
+555
+00:33:28,775 --> 00:33:30,665
+Sono Andy, sono qui per aiutarti.
+
+556
+00:33:30,675 --> 00:33:35,595
+Pensavo fosse una scorciatoia.
+Sembrava cosi' ieri notte... al buio.
+
+557
+00:33:35,605 --> 00:33:36,975
+Sei qui da ieri notte?
+
+558
+00:33:36,985 --> 00:33:39,115
+Sai com'e', quando sei ubriaca...
+
+559
+00:33:39,125 --> 00:33:41,005
+Fai delle stupidaggini.
+
+560
+00:33:41,015 --> 00:33:42,785
+- Lo so.
+- Ho provato a uscire...
+
+561
+00:33:42,795 --> 00:33:44,595
+Pensavo di riuscirci, ma...
+
+562
+00:33:44,605 --> 00:33:47,520
+- Piu' ci provavo...
+- No, no, no, no! Non... non farlo.
+
+563
+00:33:47,530 --> 00:33:51,230
+Hai traumi da schiacciamento. Ferma,
+o rischi di farti piu' male. Dai...
+
+564
+00:33:52,135 --> 00:33:54,200
+Stringi il mio dito, Becca. Puoi farlo?
+
+565
+00:33:54,905 --> 00:33:56,525
+- Riesci a stringere?
+- Ehi!
+
+566
+00:33:57,035 --> 00:33:58,825
+- Come andiamo?
+- Bene.
+
+567
+00:33:58,835 --> 00:34:00,175
+Che c'e'? Che succede?
+
+568
+00:34:00,185 --> 00:34:02,710
+- Tutto ok. Becca!
+- Non riesco a respirare, non...
+
+569
+00:34:02,720 --> 00:34:04,650
+- I muri mi schiacciano! Oddio!
+- No.
+
+570
+00:34:04,660 --> 00:34:06,740
+- Oddio!
+- Becca, no, no. Ferma! Cerca...
+
+571
+00:34:06,750 --> 00:34:09,715
+- Oddio! E' la fine, vero?
+- Stai calma.
+
+572
+00:34:09,725 --> 00:34:11,035
+Moriro' cosi'...
+
+573
+00:34:11,045 --> 00:34:12,905
+Bloccata e incastrata tra due...
+
+574
+00:34:12,915 --> 00:34:13,975
+Stupidi muri...
+
+575
+00:34:13,985 --> 00:34:16,335
+- Una sciocca schiacciata tra due muri!
+- Becca.
+
+576
+00:34:16,345 --> 00:34:18,410
+No, stai bene! Respira, prova...
+
+577
+00:34:18,420 --> 00:34:20,395
+- No! Non... posso!
+- Respira.
+
+578
+00:34:20,405 --> 00:34:22,235
+Becca, stai andando nel panico. Calmati!
+
+579
+00:34:24,610 --> 00:34:26,030
+Fai un respiro profondo.
+
+580
+00:34:27,140 --> 00:34:28,330
+E adesso un altro.
+
+581
+00:34:28,905 --> 00:34:31,010
+Adesso, devi solo decidere...
+
+582
+00:34:31,020 --> 00:34:32,300
+Che ce la puoi fare.
+
+583
+00:34:32,900 --> 00:34:34,815
+Puoi risolvere la situazione, fidati.
+
+584
+00:34:34,825 --> 00:34:36,310
+Fidati di te stessa.
+
+585
+00:34:36,320 --> 00:34:38,170
+Puoi farcela, Becca. Devi solo...
+
+586
+00:34:38,905 --> 00:34:40,125
+Rilassarti...
+
+587
+00:34:40,135 --> 00:34:41,550
+E lasciarti andare.
+
+588
+00:34:52,420 --> 00:34:53,795
+Proprio cosi'.
+
+589
+00:34:53,805 --> 00:34:56,790
+Va bene. Ti aiuto io.
+Ci siamo Jack, vai, vai!
+
+590
+00:34:56,800 --> 00:34:58,835
+Vai, vai, vai, vai!
+Ci siamo. Ci siamo.
+
+591
+00:35:00,310 --> 00:35:01,310
+Evvai!
+
+592
+00:35:07,985 --> 00:35:09,300
+Sei stata fantastica.
+
+593
+00:35:12,175 --> 00:35:13,600
+Ci sai proprio fare.
+
+594
+00:35:14,930 --> 00:35:16,480
+Sul serio, vero?
+
+595
+00:35:23,700 --> 00:35:26,050
+Lo so che certe volte
+tuo padre ti sottovaluta.
+
+596
+00:35:27,790 --> 00:35:28,970
+Per la cronaca...
+
+597
+00:35:30,120 --> 00:35:31,362
+Io ti noto.
+
+598
+00:35:32,585 --> 00:35:34,186
+Ti ho sempre notata.
+
+599
+00:35:35,520 --> 00:35:38,950
+E non so che sta succedendo con lui
+e la sua guarigione, ma se dovessi...
+
+600
+00:35:39,910 --> 00:35:40,930
+Farmi avanti...
+
+601
+00:35:41,960 --> 00:35:43,900
+E prendere il suo posto alla stazione...
+
+602
+00:35:46,260 --> 00:35:47,698
+Non ti sottovalutero'.
+
+603
+00:35:48,715 --> 00:35:50,015
+Per quello che vale.
+
+604
+00:36:00,280 --> 00:36:01,435
+Bene, sei tu.
+
+605
+00:36:01,445 --> 00:36:05,000
+- Se un altro specializzando viene qui...
+- Voglio essere considerata anche io.
+
+606
+00:36:05,790 --> 00:36:07,250
+Per il posto di Capitano.
+
+607
+00:36:08,245 --> 00:36:09,750
+Se dovrai dimetterti...
+
+608
+00:36:10,215 --> 00:36:12,413
+- Vorrei il tuo posto.
+- Andrea...
+
+609
+00:36:12,423 --> 00:36:13,850
+Devi essere un tenente.
+
+610
+00:36:13,860 --> 00:36:16,875
+- Non puoi saltare i gradi. Come niente?
+- Allora promuovimi.
+
+611
+00:36:16,885 --> 00:36:20,605
+- Neanche ti sei candidata come tenente.
+- Dovevo concentrarmi su altre cose.
+
+612
+00:36:21,265 --> 00:36:22,360
+Su di te.
+
+613
+00:36:22,640 --> 00:36:23,640
+Io?
+
+614
+00:36:24,455 --> 00:36:27,720
+- Andrea.
+- Ogni volta e' una nuova Ground Zero.
+
+615
+00:36:27,730 --> 00:36:29,100
+Mi prendo cura di te.
+
+616
+00:36:29,880 --> 00:36:32,050
+Ti sto sempre dietro,
+ti guardo le spalle.
+
+617
+00:36:32,850 --> 00:36:35,480
+Ti ho tirato fuori dalle macerie
+per tutta la mia vita.
+
+618
+00:36:36,780 --> 00:36:37,780
+Ma adesso...
+
+619
+00:36:40,580 --> 00:36:42,170
+So di poter comandare.
+
+620
+00:36:43,105 --> 00:36:44,500
+Ho le capacita'...
+
+621
+00:36:45,060 --> 00:36:46,970
+Ho fatto esperienza...
+
+622
+00:36:46,980 --> 00:36:48,540
+E voglio farlo, <i>papi</i>.
+
+623
+00:36:51,229 --> 00:36:52,639
+E' questa la mia medaglia.
+
+624
+00:36:54,531 --> 00:36:56,168
+Mi candido anch'io.
+
+625
+00:37:04,031 --> 00:37:06,691
+Passo in ospedale dopo pranzo,
+vado a trovare il comandante.
+
+626
+00:37:06,701 --> 00:37:08,923
+Mi... servirebbero le tue chiavi.
+
+627
+00:37:10,791 --> 00:37:12,832
+- Grazie.
+- Niente luci. Niente sirene.
+
+628
+00:37:12,842 --> 00:37:14,670
+Ovvio che accendero' le sirene.
+
+629
+00:37:16,473 --> 00:37:17,896
+Novellino a ore dieci.
+
+630
+00:37:21,856 --> 00:37:22,856
+Ok...
+
+631
+00:37:23,654 --> 00:37:24,705
+Ascoltate.
+
+632
+00:37:25,540 --> 00:37:28,241
+Non credo di essere migliore
+di nessun altro.
+
+633
+00:37:28,251 --> 00:37:31,053
+Sono qui per imparare.
+E si', sono un chirurgo.
+
+634
+00:37:31,063 --> 00:37:32,715
+E tutto quello che fanno i chirurghi...
+
+635
+00:37:32,725 --> 00:37:34,316
+E' parlare di chirurgia.
+
+636
+00:37:34,904 --> 00:37:36,381
+Sono un nerd della chirurgia.
+
+637
+00:37:36,391 --> 00:37:37,873
+E voi siete...
+
+638
+00:37:37,883 --> 00:37:39,251
+I nerd degli incendi, giusto?
+
+639
+00:37:39,261 --> 00:37:42,241
+Ed io non parlo la lingua
+dei nerd degli incendi.
+
+640
+00:37:42,251 --> 00:37:43,299
+Non ancora.
+
+641
+00:37:44,599 --> 00:37:45,851
+Ma voglio farlo.
+
+642
+00:37:48,957 --> 00:37:51,300
+Suonava molto meglio... nella mia testa.
+
+643
+00:37:55,011 --> 00:37:56,016
+Ehi.
+
+644
+00:37:57,410 --> 00:37:58,956
+Puoi cominciare dalle pulizie.
+
+645
+00:37:58,966 --> 00:38:00,668
+Warren. Attenzione.
+
+646
+00:38:05,989 --> 00:38:06,990
+Mi hai...
+
+647
+00:38:07,452 --> 00:38:10,509
+- Mi hai appena chiamato...
+- Comincia a pulire. Zitto e lava, ok?
+
+648
+00:38:10,519 --> 00:38:13,494
+<i>La maggior parte delle stazioni
+non hanno neanche piu' i pali.
+
+649
+00:38:13,883 --> 00:38:15,532
+<i>Sono ritenuti troppo rischiosi.
+
+650
+00:38:16,140 --> 00:38:18,743
+<i>Molto meglio... andare sul sicuro.
+
+651
+00:38:18,753 --> 00:38:19,940
+Non tornera' piu'?
+
+652
+00:38:20,834 --> 00:38:22,277
+Ho il cancro, Jack.
+
+653
+00:38:22,723 --> 00:38:24,839
+Presto comincero' con
+chemioterapia e radioterapia.
+
+654
+00:38:24,849 --> 00:38:27,341
+A volte le cose vanno cosi' e basta.
+
+655
+00:38:27,351 --> 00:38:28,467
+Quindi...
+
+656
+00:38:28,477 --> 00:38:32,945
+Quindi... lascio la stazione in mano
+ai due ufficiali di grado piu' alto
+
+657
+00:38:32,955 --> 00:38:35,862
+finche' il dipartimento non nominera'
+un nuovo Capitano permanente...
+
+658
+00:38:36,551 --> 00:38:37,978
+I due ufficiali, signore?
+
+659
+00:38:38,468 --> 00:38:40,664
+Promuovo anche Andrea come mia tenente.
+
+660
+00:38:42,781 --> 00:38:44,131
+<i>Fanculo la sicurezza.
+
+661
+00:38:44,459 --> 00:38:46,919
+Siete candidati entrambi
+al ruolo di Capitano.
+
+662
+00:38:49,509 --> 00:38:51,244
+Cercate di non mandare tutto a fuoco.
+
+663
+00:38:57,629 --> 00:38:58,898
+Wow, e'...
+
+664
+00:38:59,846 --> 00:39:01,364
+Un sacco di carne.
+
+665
+00:39:01,374 --> 00:39:02,798
+E' un regalo per noi.
+
+666
+00:39:02,808 --> 00:39:04,392
+Da parte di un'amica.
+
+667
+00:39:04,899 --> 00:39:08,099
+- Per ringraziarci del duro lavoro.
+- Un'amica?
+
+668
+00:39:08,731 --> 00:39:10,905
+- L'amica dei messaggi sconci?
+- La ragazza del cane.
+
+669
+00:39:12,027 --> 00:39:13,032
+Io...
+
+670
+00:39:13,422 --> 00:39:15,568
+- L'ho invitata da me.
+- No!
+
+671
+00:39:15,578 --> 00:39:16,950
+Dean, sai che non si fa!
+
+672
+00:39:16,960 --> 00:39:19,864
+- Non invitare le persone salvate.
+- Non se n'e' ancora andata, vero?
+
+673
+00:39:19,874 --> 00:39:22,048
+- E' ancora a casa tua?
+- La sua e' andata a fuoco.
+
+674
+00:39:22,058 --> 00:39:24,435
+- Oh, mio Dio!
+- Cosa? Non aveva un posto dove andare.
+
+675
+00:39:25,036 --> 00:39:26,082
+Ragazzi...
+
+676
+00:39:26,933 --> 00:39:28,250
+Abbiamo delle novita'.
+
+677
+00:39:29,536 --> 00:39:31,056
+Mio padre non tornera'.
+
+678
+00:39:31,465 --> 00:39:33,175
+<i>La sicurezza ti paralizza.
+
+679
+00:39:33,670 --> 00:39:36,289
+E'... svenuto per un'emorragia interna.
+
+680
+00:39:36,299 --> 00:39:38,255
+<i>La sicurezza ti fa
+stringere troppo forte.
+
+681
+00:39:38,265 --> 00:39:39,484
+E' abbastanza grave.
+
+682
+00:39:39,794 --> 00:39:43,111
+Per ora copriremo il ruolo di mio
+padre internamente, ad interim.
+
+683
+00:39:43,121 --> 00:39:44,819
+<i>E' cosi' che si rimane bloccati.
+
+684
+00:39:45,366 --> 00:39:48,779
+- Congratulazioni, Capitano.
+- Entrambi... Jack ed io.
+
+685
+00:39:51,239 --> 00:39:52,240
+Va bene.
+
+686
+00:39:53,752 --> 00:39:54,779
+Allora...
+
+687
+00:39:54,789 --> 00:39:56,958
+Congratulazioni... Capitano.
+
+688
+00:39:59,520 --> 00:40:00,524
+Sentite.
+
+689
+00:40:01,865 --> 00:40:04,403
+Mio padre ha sempre fatto
+le cose in un certo modo.
+
+690
+00:40:04,413 --> 00:40:05,673
+Gli piace...
+
+691
+00:40:07,013 --> 00:40:08,616
+Farci rincorrere la lepre.
+
+692
+00:40:08,626 --> 00:40:11,881
+Ma e' solo uno stupido trucco
+per tenerci in allenamento,
+
+693
+00:40:11,891 --> 00:40:13,349
+per uno stupido premio...
+
+694
+00:40:13,970 --> 00:40:15,096
+Il Pole Day.
+
+695
+00:40:17,802 --> 00:40:19,670
+Ma ora basta inseguire lepri.
+
+696
+00:40:20,838 --> 00:40:21,981
+Sono io...
+
+697
+00:40:21,991 --> 00:40:23,337
+La lepre.
+
+698
+00:40:23,347 --> 00:40:25,881
+La lepre corre perche' ama farlo.
+
+699
+00:40:25,891 --> 00:40:29,073
+Io faccio questo lavoro perche' lo amo.
+
+700
+00:40:29,083 --> 00:40:30,438
+Non mi serve un premio.
+
+701
+00:40:30,782 --> 00:40:32,268
+Ogni giorno qui...
+
+702
+00:40:32,278 --> 00:40:33,537
+E' un premio.
+
+703
+00:40:34,696 --> 00:40:36,169
+Ogni vita salvata.
+
+704
+00:40:36,179 --> 00:40:38,130
+Ogni incendio estinto.
+
+705
+00:40:41,151 --> 00:40:42,939
+Siamo i vigili del fuoco di Seattle.
+
+706
+00:40:44,136 --> 00:40:46,133
+La stazione 19 e' il posto
+che abbiamo scelto.
+
+707
+00:40:46,143 --> 00:40:48,656
+E quel palo ci appartiene.
+
+708
+00:40:48,666 --> 00:40:50,092
+Ce lo siamo guadagnato...
+
+709
+00:40:51,087 --> 00:40:52,929
+Un incendio alla volta.
+
+710
+00:40:52,939 --> 00:40:54,192
+E cio' vuol dire...
+
+711
+00:40:54,568 --> 00:40:56,811
+Dimenticate come le cose
+vengono fatte di solito.
+
+712
+00:40:56,821 --> 00:40:59,506
+Ogni giorno e' il Pole Day.
+
+713
+00:41:00,394 --> 00:41:02,225
+A partire... da adesso.
+
+714
+00:41:06,065 --> 00:41:07,075
+Andiamo.
+
+715
+00:41:08,673 --> 00:41:09,853
+Aspetta. Davvero?
+
+716
+00:41:11,145 --> 00:41:12,150
+Davvero.
+
+717
+00:41:26,907 --> 00:41:28,086
+<i>Il trucco e'...
+
+718
+00:41:28,096 --> 00:41:29,099
+<i>Respirare.
+
+719
+00:41:30,278 --> 00:41:31,554
+<i>E mollare la presa.
+
+720
+00:41:34,710 --> 00:41:36,184
+<i>Non puoi rimuginarci troppo.
+
+721
+00:41:42,407 --> 00:41:43,615
+<i>Devi tenerti forte.
+
+722
+00:41:46,736 --> 00:41:47,741
+Forza!
+
+723
+00:41:52,492 --> 00:41:53,704
+<i>Fai la prossima mossa.
+
+724
+00:41:53,714 --> 00:41:55,074
+Oh, no. Tocca a te.
+
+725
+00:41:55,447 --> 00:41:58,122
+Non puoi dare inizio al Pole Day
+e non partecipare anche tu.
+
+726
+00:42:01,187 --> 00:42:02,639
+Abbi fiducia in te stesso.
+
+727
+00:42:13,401 --> 00:42:14,406
+<i>E poi...
+
+728
+00:42:15,686 --> 00:42:16,922
+<i>Lasciati andare.
+
+729
+00:42:22,324 --> 00:42:23,977
+Subspedia
+[www.subspedia.tv]

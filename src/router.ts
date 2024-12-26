@@ -4,8 +4,8 @@ import { filterSubtitle, getSentence } from "./utils.js";
 import { sendEmail } from "./mailjet.js";
 import fs from "fs/promises";
 import { __filename, __dirname, subtitlesFolder } from "./helpers.js";
-import { translateText } from "./translateSentence.js";
 import { SHOW_FILE_PATH } from "./types.js";
+import { translateText } from "./translateSentence.js";
 
 const prisma = new PrismaClient();
 const router = Router();
@@ -26,20 +26,10 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       proficiencyLevel,
       favoriteShow,
     } = req.body;
-    const filePath = SHOW_FILE_PATH[favoriteShow];
-    // Fetch available subtitles for the selected favoriteShow and filter by language
-    const subtitleFiles = await fs.readdir(subtitlesFolder);
-    const subtitles = subtitleFiles.map((file) => ({
-      name: file
-        .replace(".srt", "")
-        .replace(/-\w{2}(\.\w+)?$/i, "") // Remove language code suffix
-        .replace(/-/g, " ")
-        .replace(/s\d{2}/i, "") // Remove 's01', 's02', etc.
-        .replace(/e\d{2}/i, "") // Remove 'e01', 'e02', etc.
-        .trim()
-        .toLowerCase(),
-      fileName: file,
-    }));
+    const filePathKey = `${favoriteShow}-${targetLanguage
+      .slice(0, 2)
+      .toLowerCase()}`;
+    const filePath = SHOW_FILE_PATH.get(filePathKey);
 
     // Log the incoming data
     console.log("Received data:", {
@@ -128,12 +118,8 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       }
     }
 
-    const filteredSubtitles = subtitles.filter((subtitle) =>
-      filterSubtitle(subtitle.fileName, targetLanguage)
-    );
-    console.log(filteredSubtitles);
     // Check if there are available subtitles for the selected target language
-    if (filteredSubtitles.length === 0) {
+    if (!targetLanguage.slice(0, 2).toLowerCase()) {
       return res.status(404).json({
         error: `no found subtitle for the selected language: ${targetLanguage}`,
       });

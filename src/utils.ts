@@ -121,10 +121,10 @@ const isIntermediateLevelSentence = (sentence: string): boolean => {
 
   // Check for the required POS for an intermediate-level sentence
   const POSValueForIntermediateLevel =
-    nouns.length > 0 &&
-    verbs.length > 0 &&
-    complements.length > 0 &&
-    conjunctions.length > 0;
+    nouns.length >= 0 ||
+    verbs.length >= 0 ||
+    complements.length >= 0 ||
+    conjunctions.length >= 0;
 
   return POSValueForIntermediateLevel;
 };
