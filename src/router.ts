@@ -55,7 +55,7 @@ router.post("/submit-data", async (req: Request, res: Response) => {
     if (!filePath) {
       return res.status(404).json({
         error:
-          "Favorite show cannot be created because there's no file path associated with it",
+          "Favorite show cannot be created because there's no found subtitle associated with it",
       });
     }
 
