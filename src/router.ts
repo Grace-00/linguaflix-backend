@@ -1,9 +1,8 @@
 import { Router, Request, Response } from "express";
 import { PrismaClient } from "@prisma/client";
-import { filterSubtitle, getSentence } from "./utils.js";
+import { getSentence } from "./utils.js";
 import { sendEmail } from "./mailjet.js";
-import fs from "fs/promises";
-import { __filename, __dirname, subtitlesFolder } from "./helpers.js";
+import { __filename, __dirname } from "./helpers.js";
 import { SHOW_FILE_PATH } from "./types.js";
 import { translateText } from "./translateSentence.js";
 
@@ -52,71 +51,41 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       return res.status(400).json({ error: "Data is required" });
     }
 
+    // Check if the file path exists before proceeding
+    if (!filePath) {
+      return res.status(404).json({
+        error:
+          "Favorite show cannot be created because there's no file path associated with it",
+      });
+    }
+
     // Check for existing user by email
-    const existingUser = await prisma.user.findUnique({
+    let user = await prisma.user.upsert({
       where: { email },
+      update: {
+        name,
+        nativeLanguage,
+        targetLanguage,
+        proficiencyLevel,
+        favoriteShow,
+      },
+      create: {
+        name,
+        email,
+        nativeLanguage,
+        targetLanguage,
+        proficiencyLevel,
+        favoriteShow,
+      },
     });
 
-    let user;
-
-    //TODO: improve if else
-    if (existingUser) {
-      // If the user exists, update their information if needed
-      user = await prisma.user.update({
-        where: { email },
-        data: {
-          name,
-          nativeLanguage,
-          targetLanguage,
-          proficiencyLevel,
-          // favoriteShow is not updated directly here so that one user can have multiple
-          // favorite tv shows
-        },
-      });
-
-      // Don't store favoriteShow if there is no subtitle available for existing user
-      if (!filePath) {
-        return res.status(404).json({
-          error:
-            "Favorite show not created for existing user because there's no found file path associated to it",
-        });
-      } else {
-        // Create a new favorite show entry linked to the existing user
-        await prisma.favoriteShow.create({
-          data: {
-            userId: user.id,
-            showName: favoriteShow,
-          },
-        });
-      }
-    } else {
-      // Don't store favoriteShow if there is no subtitle available for new user
-      if (!filePath) {
-        return res.status(404).json({
-          error:
-            "Favorite show not created for the new user because there's no found file path associated to it",
-        });
-      } else {
-        // If the user does not exist, create a new user
-        user = await prisma.user.create({
-          data: {
-            name,
-            email,
-            nativeLanguage,
-            targetLanguage,
-            proficiencyLevel,
-            favoriteShow,
-          },
-        });
-        // Create a new favorite show entry for the new user
-        await prisma.favoriteShow.create({
-          data: {
-            userId: user.id,
-            showName: favoriteShow,
-          },
-        });
-      }
-    }
+    // Create a new favorite show entry linked to the user
+    await prisma.favoriteShow.create({
+      data: {
+        userId: user.id,
+        showName: favoriteShow,
+      },
+    });
 
     // Check if there are available subtitles for the selected target language
     if (!targetLanguage.slice(0, 2).toLowerCase()) {
@@ -131,6 +100,13 @@ router.post("/submit-data", async (req: Request, res: Response) => {
     if (!sentence) {
       return res.status(404).json({ error: "Subtitle not found" });
     }
+
+    await prisma.sentence.create({
+      data: {
+        userId: user.id,
+        content: sentence,
+      },
+    });
 
     console.log("Fetched subtitle:", sentence);
 

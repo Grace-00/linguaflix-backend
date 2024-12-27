@@ -2,7 +2,6 @@ import * as fs from "fs";
 import nlp from "compromise";
 import SrtParser from "srt-parser-2";
 import { getFilePath, shuffleArray } from "./helpers.js";
-import { targetLangMap } from "./translateSentence.js";
 
 // Helper function to read the SRT file
 const readSrtFile = async (filePath: string): Promise<string> => {
@@ -168,22 +167,4 @@ export const getSentence = async (
   return shuffledArrayOfSentences.length > 0
     ? shuffledArrayOfSentences[randomIndex]
     : null;
-};
-
-// Helper function to filter subtitles based on target language
-export const filterSubtitle = (
-  fileName: string,
-  targetLanguage: string
-): boolean => {
-  const languageCode = targetLangMap[targetLanguage.toLowerCase()];
-  if (!languageCode) {
-    return false;
-  }
-  // consider en-US as default
-  if (languageCode.includes("US")) {
-    return true;
-  }
-
-  // Check if the file name ends with the corresponding language code
-  return fileName.endsWith(`-${languageCode}.srt`);
 };
