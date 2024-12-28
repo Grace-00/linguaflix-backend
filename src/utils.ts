@@ -1,170 +1,138 @@
 import * as fs from "fs";
 import nlp from "compromise";
-import SrtParser from "srt-parser-2";
-import { getFilePath, shuffleArray } from "./helpers.js";
+import { getFilePath } from "./helpers.js";
+import readline from "readline";
+import { AnalyzedSentence, ProficiencyLevel, Threshold } from "./types.js";
 
-// Helper function to read the SRT file
-const readSrtFile = async (filePath: string): Promise<string> => {
+const parseSrtFileStream = async (filePath: string): Promise<string[]> => {
   const absoluteFilePath = getFilePath(filePath);
-  return fs.promises.readFile(absoluteFilePath, "utf8");
-};
+  const fileStream = fs.createReadStream(absoluteFilePath, {
+    encoding: "utf8",
+  });
 
-// Helper function to parse the SRT content
-const parseSrtData = (fileContent: string): Array<{ text: string }> => {
-  const parser = new SrtParser();
-  return parser.fromSrt(fileContent);
-};
+  const rl = readline.createInterface({
+    input: fileStream,
+    crlfDelay: Infinity, // Handles \r\n and \n line endings
+  });
 
-// Helper function to clean subtitle text
-const cleanSubtitleText = (srtData: Array<{ text: string }>): string => {
-  const subtitleText = srtData.map((entry) => entry.text);
-  return cleanSubtitle(subtitleText);
+  const subtitleLines: string[] = [];
+  const annotationsRegex = /\[.*?\]|<.*?>|^- /g;
+  const unwantedLinesRegex =
+    /synced and corrected by|for www.addic7ed.com|^previously on/i;
+
+  for await (const line of rl) {
+    const cleaned = line.replace(annotationsRegex, "").trim();
+    if (!unwantedLinesRegex.test(cleaned) && cleaned !== "") {
+      subtitleLines.push(cleaned);
+    }
+  }
+
+  return subtitleLines;
 };
 
 const cleanSubtitle = (subtitleLines: string[]): string => {
-  // Step 1: Remove sound effects in square brackets, HTML tags, and unwanted phrases
-  let cleanedSubtitles = subtitleLines.map((line) => {
-    return line
-      .replace(/\[.*?\]/g, "") // Remove [anything] (like sound effects or character names)
-      .replace(/<.*?>/g, "") // Remove <anything> (like HTML tags)
-      .replace(/^- /g, "") // Remove hyphens that indicate dialogue breaks
-      .trim(); // Trim leading/trailing spaces
-  });
+  const mergedSubtitles = subtitleLines.reduce<string[]>((acc, line) => {
+    const cleaned = line
+      .replace(/^\d+\s*$/g, "") // Remove standalone numbers (e.g., "1", "2")
+      .replace(/\d{2}:\d{2}:\d{2},\d{3}\s*-->\s*\d{2}:\d{2}:\d{2},\d{3}/g, "") // Remove timestamps
+      .replace(/♪.*?♪|♪.*$/g, "") // Remove lines or parts starting/ending with ♪ TODO: remove music on multiline
+      .replace(/\[.*?\]|<.*?>|^- /g, "") // Remove annotations and tags
+      .trim();
 
-  // Step 2: Remove lines containing unwanted phrases like "Synced and corrected by", "for www.addic7ed.com", and "Previously on"
-  cleanedSubtitles = cleanedSubtitles.filter((line) => {
-    return (
-      !line.toLowerCase().includes("synced and corrected by") &&
-      !line.toLowerCase().includes("for www.addic7ed.com") &&
-      !/^previously on/i.test(line) && // Remove lines starting with "Previously on"
-      line.trim() !== ""
-    ); // Remove empty lines
-  });
-
-  // Step 3: Merge lines where the next line doesn’t start with a capital letter
-  const mergedSubtitles: string[] = [];
-  cleanedSubtitles.forEach((line, index) => {
-    if (index > 0 && /^[a-z]/.test(line)) {
-      // If the current line starts with a lowercase letter, append it to the previous one
-      mergedSubtitles[mergedSubtitles.length - 1] += ` ${line.trim()}`;
-    } else {
-      mergedSubtitles.push(line.trim());
+    if (
+      !cleaned.toLowerCase().includes("synced and corrected by") &&
+      !cleaned.toLowerCase().includes("for www.addic7ed.com") &&
+      !/^previously on/i.test(cleaned) &&
+      cleaned !== ""
+    ) {
+      // Merge lines starting with lowercase
+      if (acc.length && /^[a-z]/.test(cleaned)) {
+        acc[acc.length - 1] += ` ${cleaned}`;
+      } else {
+        acc.push(cleaned);
+      }
     }
+    return acc;
+  }, []); // Initialize as an empty array of strings
+
+  return mergedSubtitles.join(" ").replace(/\s+/g, " ");
+};
+
+const analyzeSentenceAsync = (sentence: string): AnalyzedSentence => {
+  const doc = nlp(sentence);
+  return {
+    terms: doc.terms().out("array"),
+    nouns: doc.nouns().out("array"),
+    verbs: doc.verbs().out("array"),
+    complements: doc
+      .adjectives()
+      .out("array")
+      .concat(doc.adverbs().out("array")),
+    conjunctions: doc.conjunctions().out("array"),
+  };
+};
+
+const filterSentencesAsync = async (
+  sentences: string[],
+  proficiencyLevel: string
+): Promise<string | null> => {
+  const thresholdsConfig: Record<ProficiencyLevel, Threshold> = {
+    beginner: { maxLength: 8, maxComplexWords: 2 },
+    intermediate: { minLength: 9, maxLength: 15, maxComplexWords: 4 },
+  };
+
+  const thresholds: Threshold =
+    thresholdsConfig[proficiencyLevel as ProficiencyLevel];
+
+  const preFilteredSentences = sentences.filter((sentence) => {
+    const words = sentence.split(" ");
+    return (
+      words.length >= (thresholds.minLength || 0) &&
+      words.length <= thresholds.maxLength
+    );
   });
 
-  // Step 4: Join all cleaned and merged lines into a single paragraph
-  return mergedSubtitles.join(" ").replace(/\s+/g, " "); // Replace multiple spaces with a single space
+  const results = await Promise.all(
+    preFilteredSentences.map(async (sentence) => {
+      const result = await analyzeSentenceAsync(sentence);
+      const { terms, nouns, verbs } = result;
+      const complexWordCount = terms.filter(
+        (word: string) => word.length > 6
+      ).length;
+      const isValid =
+        terms.length >= (thresholds.minLength || 0) &&
+        terms.length <= thresholds.maxLength &&
+        complexWordCount <= thresholds.maxComplexWords &&
+        nouns.length > 0 &&
+        verbs.length > 0;
+      return isValid ? sentence : null;
+    })
+  );
+
+  const filteredSentences = results.filter(Boolean); // Remove null values
+
+  if (filteredSentences.length > 0) {
+    const randomIndex = Math.floor(Math.random() * filteredSentences.length);
+    return filteredSentences[randomIndex];
+  }
+
+  return null;
 };
 
-// Helper function to extract sentences from cleaned text
-const extractSentences = (cleanedText: string): string[] => {
-  const doc = nlp(cleanedText);
-  return doc.sentences().out("array");
-};
-
-// Function to determine if a sentence is simple enough for a beginner level
-const isBeginnerLevelSentence = (sentence: string): boolean => {
-  const maxLength = 8; // Max words for a beginner sentence
-  const maxComplexWords = 2; // Max complex words allowed
-
-  // Use Compromise to tokenize and analyze the sentence
-  const doc = nlp(sentence);
-  const words = doc.terms().out("array");
-
-  // Check sentence length
-  if (words.length > maxLength) return false;
-
-  // Check for complex words
-  const complexWordCount = words.filter(
-    (word: string) => word.length > 6
-  ).length;
-  if (complexWordCount > maxComplexWords) return false;
-
-  // Check for nouns, verbs, and complements (adjectives or adverbs)
-  const nouns = doc.nouns().out("array");
-  const verbs = doc.verbs().out("array");
-  const complements = doc
-    .adjectives()
-    .out("array")
-    .concat(doc.adverbs().out("array"));
-
-  return nouns.length > 0 && verbs.length > 0 && complements.length > 0;
-};
-
-const isIntermediateLevelSentence = (sentence: string): boolean => {
-  const minLength = 9; // Minimum words for an intermediate sentence
-  const maxLength = 15; // Maximum words for an intermediate sentence
-  const maxComplexWords = 4; // Maximum complex words allowed
-
-  // Use Compromise to analyze the sentence
-  const doc = nlp(sentence);
-  const words = doc.terms().out("array");
-
-  // Check sentence length
-  if (words.length < minLength || words.length > maxLength) return false;
-
-  // Check for complex words
-  const complexWordCount = words.filter(
-    (word: string) => word.length > 6
-  ).length;
-  if (complexWordCount > maxComplexWords) return false;
-
-  // Extract nouns, verbs, complements (adjectives or adverbs), and conjunctions
-  const nouns = doc.nouns().out("array");
-  const verbs = doc.verbs().out("array");
-  const complements = doc
-    .adjectives()
-    .out("array")
-    .concat(doc.adverbs().out("array"));
-  const conjunctions = doc.conjunctions().out("array");
-
-  // Check for the required POS for an intermediate-level sentence
-  const POSValueForIntermediateLevel =
-    nouns.length >= 0 ||
-    verbs.length >= 0 ||
-    complements.length >= 0 ||
-    conjunctions.length >= 0;
-
-  return POSValueForIntermediateLevel;
-};
-
-// Helper function to filter beginner-level sentences
-const filterBeginnerSentences = (sentences: string[]): string[] => {
-  return sentences.filter(isBeginnerLevelSentence);
-};
-
-// Helper function to filter intermediate-level sentences
-const filterIntermediateSentences = (sentences: string[]): string[] => {
-  return sentences.filter((sentence) => isIntermediateLevelSentence(sentence));
-};
-
-// Main function to extract a sentence
-export const getSentence = async (
+export const getRandomSentenceFromSubtitle = async (
   filePath: string,
   proficiencyLevel: string
 ): Promise<string | null> => {
-  const fileContent = await readSrtFile(filePath);
-  const srtData = parseSrtData(fileContent);
-  const cleanedSubtitleText = cleanSubtitleText(srtData);
-  const sentences = extractSentences(cleanedSubtitleText);
+  try {
+    const fileContent = await parseSrtFileStream(filePath);
+    const cleanedSubtitle = cleanSubtitle(fileContent);
+    const sentences = cleanedSubtitle.split(
+      /(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)/
+    );
 
-  let filteredSentences: string[] = [];
-  switch (proficiencyLevel) {
-    case "beginner":
-      filteredSentences = filterBeginnerSentences(sentences);
-      break;
-    case "intermediate":
-      filteredSentences = filterIntermediateSentences(sentences);
-      break;
+    return filterSentencesAsync(sentences, proficiencyLevel);
+  } catch (error) {
+    console.error("Error processing subtitle:", error);
+    return null;
   }
-
-  const shuffledArrayOfSentences = shuffleArray(filteredSentences);
-  //return a random sentence from the the shuffled array of sentences
-  const randomIndex = Math.floor(
-    Math.random() * shuffledArrayOfSentences.length
-  );
-
-  return shuffledArrayOfSentences.length > 0
-    ? shuffledArrayOfSentences[randomIndex]
-    : null;
 };
