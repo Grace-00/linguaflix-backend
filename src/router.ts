@@ -1,6 +1,6 @@
 import { Router, Request, Response } from "express";
 import { PrismaClient } from "@prisma/client";
-import { getSentence } from "./utils.js";
+import { getRandomSentenceFromSubtitle } from "./utils.js";
 import { sendEmail } from "./mailjet.js";
 import { __filename, __dirname } from "./helpers.js";
 import { SHOW_FILE_PATH } from "./types.js";
@@ -94,8 +94,10 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       });
     }
 
-    // Fetch subtitle based on favoriteShow TODO: implement different target language
-    const sentence = await getSentence(filePath, proficiencyLevel);
+    const sentence = await getRandomSentenceFromSubtitle(
+      filePath,
+      proficiencyLevel
+    );
 
     if (!sentence) {
       return res.status(404).json({ error: "Subtitle not found" });
