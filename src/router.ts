@@ -15,6 +15,10 @@ router.get("/", (req: Request, res: Response) => {
     .json({ message: "heeelllooooo server! This API has not been found." });
 });
 
+router.get("/health", (req: Request, res: Response) => {
+  res.status(200).send("Server is running");
+});
+
 router.post("/submit-data", async (req: Request, res: Response) => {
   try {
     const {
