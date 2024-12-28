@@ -83,21 +83,7 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       },
     });
 
-    // Create a new favorite show entry linked to the user
-    await prisma.favoriteShow.create({
-      data: {
-        userId: user.id,
-        showName: favoriteShow,
-      },
-    });
-
-    // Check if there are available subtitles for the selected target language
-    if (!targetLanguage.slice(0, 2).toLowerCase()) {
-      return res.status(404).json({
-        error: `no found subtitle for the selected language: ${targetLanguage}`,
-      });
-    }
-
+    // First, fetch the sentence and then translate concurrently
     const sentence = await getRandomSentenceFromSubtitle(
       filePath,
       proficiencyLevel
@@ -107,34 +93,37 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       return res.status(404).json({ error: "Subtitle not found" });
     }
 
-    await prisma.sentence.create({
-      data: {
-        userId: user.id,
-        content: sentence,
-      },
-    });
+    // Run the database operations as a transaction
+    await prisma.$transaction([
+      prisma.favoriteShow.create({
+        data: {
+          userId: user.id,
+          showName: favoriteShow,
+        },
+      }),
+      prisma.sentence.create({
+        data: {
+          userId: user.id,
+          content: sentence,
+        },
+      }),
+    ]);
 
-    console.log("Fetched subtitle:", sentence);
+    const [
+      translatedSentence,
+      translatePersonalisedIntro,
+      translateTranslationIntro,
+    ] = await Promise.all([
+      translateText(sentence, targetLanguage, nativeLanguage),
+      translateText(
+        "Here is your personalized sentence",
+        targetLanguage,
+        nativeLanguage
+      ),
+      translateText("Here is the translation", targetLanguage, nativeLanguage),
+    ]);
 
-    const translatedSentence = await translateText(
-      sentence,
-      targetLanguage,
-      nativeLanguage
-    );
-
-    const translatePersonalisedIntro = await translateText(
-      "Here is your personalized sentence",
-      targetLanguage,
-      nativeLanguage
-    );
-
-    const translateTranslationIntro = await translateText(
-      "Here is the translation",
-      targetLanguage,
-      nativeLanguage
-    );
-
-    // Send email
+    // Send the email with the translations
     await sendEmail(
       email,
       "Your Learning Sentence",
