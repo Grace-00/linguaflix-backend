@@ -1,7 +1,7 @@
 import { Router, Request, Response } from "express";
 import { PrismaClient } from "@prisma/client";
 import { getRandomSentenceFromSubtitle } from "./utils.js";
-import { sendEmail } from "./mailjet.js";
+import { sendEmail, sendEmailAsync } from "./mailjet.js";
 import { __filename, __dirname } from "./helpers.js";
 import { SHOW_FILE_PATH } from "./types.js";
 import { translateText } from "./translateSentence.js";
@@ -133,14 +133,11 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       translateText("Here is the translation", targetLanguage, nativeLanguage),
     ]);
 
-    // Send the email with the translations
-    await sendEmail(
+    sendEmailAsync(
       email,
       "Your Learning Sentence",
       `${translatePersonalisedIntro}: ${sentence}. ${translateTranslationIntro}: ${translatedSentence}`
     );
-
-    console.log("Email sent to:", email);
 
     res.status(201).json(user);
   } catch (error) {

@@ -35,3 +35,9 @@ export const sendEmail = async (to: string, subject: string, text: string) => {
     console.error("Error sending email:", error);
   }
 };
+
+export const sendEmailAsync = (to: string, subject: string, body: string) => {
+  sendEmail(to, subject, body).catch((err) =>
+    console.error("Failed to send email:", err)
+  );
+};
