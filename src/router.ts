@@ -5,6 +5,7 @@ import { sendEmail } from "./mailjet.js";
 import { __filename, __dirname } from "./helpers.js";
 import { SHOW_FILE_PATH } from "./types.js";
 import { translateText } from "./translateSentence.js";
+import { z } from "zod";
 
 const prisma = new PrismaClient();
 const router = Router();
@@ -21,6 +22,15 @@ router.get("/health", (req: Request, res: Response) => {
 
 router.post("/submit-data", async (req: Request, res: Response) => {
   try {
+    const schema = z.object({
+      name: z.string(),
+      email: z.string().email(),
+      nativeLanguage: z.string(),
+      targetLanguage: z.string(),
+      proficiencyLevel: z.string(),
+      favoriteShow: z.string(),
+    });
+
     const {
       name,
       email,
@@ -28,11 +38,7 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       targetLanguage,
       proficiencyLevel,
       favoriteShow,
-    } = req.body;
-    const filePathKey = `${favoriteShow}-${targetLanguage
-      .slice(0, 2)
-      .toLowerCase()}`;
-    const filePath = SHOW_FILE_PATH.get(filePathKey);
+    } = schema.parse(req.body);
 
     // Log the incoming data
     console.log("Received data:", {
@@ -55,6 +61,10 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       return res.status(400).json({ error: "Data is required" });
     }
 
+    const filePathKey = `${favoriteShow}-${targetLanguage
+      .slice(0, 2)
+      .toLowerCase()}`;
+    const filePath = SHOW_FILE_PATH.get(filePathKey);
     // Check if the file path exists before proceeding
     if (!filePath) {
       return res.status(404).json({
