@@ -19,6 +19,8 @@
     "@types/lodash.merge": "^4.6.9",
     "@types/morgan": "^1.9.9",
     "@types/node": "^20.11.24",
+    "@types/winston": "^2.4.4",
+    "@types/winston-syslog": "^2.4.3",
     "nodemon": "^3.1.0",
     "prisma": "^5.10.2",
     "ts-node": "^10.9.2",
@@ -36,6 +38,9 @@
     "morgan": "^1.10.0",
     "natural": "^8.0.1",
     "node-mailjet": "^6.0.6",
-    "uuidv4": "^6.2.13"
+    "uuidv4": "^6.2.13",
+    "winston": "^3.17.0",
+    "winston-papertrail": "^1.0.5",
+    "winston-syslog": "^2.7.1"
   }
 }
