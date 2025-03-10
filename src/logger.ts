@@ -4,7 +4,9 @@ import { Syslog } from "winston-syslog";
 
 const papertrail = new Syslog({
   host: process.env.PAPERTRAIL_HOST,
-  port: process.env.PAPERTRAIL_PORT,
+  port: process.env.PAPERTRAIL_PORT
+    ? parseInt(process.env.PAPERTRAIL_PORT, 10)
+    : undefined,
   protocol: "tls4",
   localhost: os.hostname(),
   eol: "\n",
