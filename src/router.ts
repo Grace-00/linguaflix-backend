@@ -1,7 +1,7 @@
 import { Router, Request, Response } from "express";
 import { PrismaClient } from "@prisma/client";
 import { getRandomSentenceFromSubtitle } from "./utils.js";
-import { sendEmail, sendEmailAsync } from "./mailjet.js";
+import { sendEmailAsync } from "./mailjet.js";
 import { __filename, __dirname } from "./helpers.js";
 import { SHOW_FILE_PATH } from "./types.js";
 import { translateText } from "./translateSentence.js";
@@ -9,12 +9,6 @@ import { z } from "zod";
 
 const prisma = new PrismaClient();
 const router = Router();
-
-router.get("/", (req: Request, res: Response) => {
-  res
-    .status(404)
-    .json({ message: "heeelllooooo server! This API has not been found." });
-});
 
 router.get("/health", (req: Request, res: Response) => {
   res.status(200).send("Server is running");
