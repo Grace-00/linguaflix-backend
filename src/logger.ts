@@ -7,14 +7,13 @@ const papertrail = new Syslog({
   port: process.env.PAPERTRAIL_PORT
     ? parseInt(process.env.PAPERTRAIL_PORT, 10)
     : undefined,
-  protocol: "tls4",
   localhost: os.hostname(),
   eol: "\n",
 });
 
 const logger = createLogger({
   format: format.simple(),
-  level: Syslog.level,
+  level: "info",
   transports: [papertrail],
 });
 
