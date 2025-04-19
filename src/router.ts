@@ -95,24 +95,16 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       prisma.sentence.create({ data: { userId: user.id, content: sentence } }),
     ]);
 
-    const [
-      translatedSentence,
-      translatePersonalisedIntro,
-      translateTranslationIntro,
-    ] = await Promise.all([
-      translateText(sentence, targetLanguage, nativeLanguage),
-      translateText(
-        "Here is your personalized sentence",
-        targetLanguage,
-        nativeLanguage
-      ),
-      translateText("Here is the translation", targetLanguage, nativeLanguage),
-    ]);
+    const translatedSentence = await translateText(
+      sentence,
+      targetLanguage,
+      nativeLanguage
+    );
 
     sendEmailAsync(
       email,
       "Your Learning Sentence",
-      `${translatePersonalisedIntro}: ${sentence}. ${translateTranslationIntro}: ${translatedSentence}`
+      `${sentence}. Translation: ${translatedSentence}`
     );
 
     res.status(201).json(user);
