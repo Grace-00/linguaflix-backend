@@ -3,6 +3,7 @@ import nlp from "compromise";
 import { getFilePath } from "./helpers.js";
 import readline from "readline";
 import { AnalyzedSentence, ProficiencyLevel, Threshold } from "./types.js";
+import cache from "./cache.js";
 
 const parseSrtFileStream = async (filePath: string): Promise<string[]> => {
   const absoluteFilePath = getFilePath(filePath);
@@ -122,17 +123,28 @@ const filterSentencesAsync = async (
 export const getRandomSentenceFromSubtitle = async (
   filePath: string,
   proficiencyLevel: string
-): Promise<string | null> => {
-  try {
+): Promise<{ sentence: string | null; fromCache: boolean }> => {
+  const cacheKey = `subtitle:${filePath}`;
+
+  // Step 1: Check if the processed sentences are already cached
+  let sentences = cache.get<string[]>(cacheKey);
+  let fromCache = true;
+
+  if (!sentences) {
+    // Step 2: Process the subtitle file if not cached
     const fileContent = await parseSrtFileStream(filePath);
     const cleanedSubtitle = cleanSubtitle(fileContent);
-    const sentences = cleanedSubtitle.split(
+    sentences = cleanedSubtitle.split(
       /(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?|\!)/
     );
 
-    return filterSentencesAsync(sentences, proficiencyLevel);
-  } catch (error) {
-    console.error("Error processing subtitle:", error);
-    return null;
+    // Step 3: Cache the processed sentences
+    cache.set(cacheKey, sentences);
+    fromCache = false;
   }
+
+  // Step 4: Filter sentences based on proficiency level
+  const sentence = await filterSentencesAsync(sentences, proficiencyLevel);
+
+  return { sentence, fromCache };
 };

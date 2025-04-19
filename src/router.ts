@@ -74,13 +74,19 @@ router.post("/submit-data", async (req: Request, res: Response) => {
       },
     });
 
-    const sentence = await getRandomSentenceFromSubtitle(
+    const { sentence, fromCache } = await getRandomSentenceFromSubtitle(
       filePath,
       proficiencyLevel
     );
     if (!sentence) {
       return res.status(404).json({ error: "Subtitle not found" });
     }
+
+    console.log(
+      `Subtitle sentences retrieved for ${filePath}. Source: ${
+        fromCache ? "Cache" : "Freshly Processed"
+      }`
+    );
 
     await prisma.$transaction([
       prisma.favoriteShow.create({
